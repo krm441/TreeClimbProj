@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
-  productGUID: 7460fb996a97b3a46b2a05344e907f7a
+  productGUID: b42deab6d6dda334da96f8b78fdd327c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: TreeClimbUOL
+  productName: TreeClimbTests
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -705,9 +705,9 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: bc1d3d6a-7650-49a3-9a55-33af177ba149
+  cloudProjectId: df792e37-d8e8-4084-8e38-8189eb61cba4
   framebufferDepthMemorylessMode: 0
-  projectName: TreeClimbUOL
+  projectName: TreeClimbTests
   organizationId: kuzanda
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
