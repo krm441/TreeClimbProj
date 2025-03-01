@@ -1,0 +1,4315 @@
+fileFormatVersion: 2
+guid: b69377c48a4ec4143951a0099994a58f
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -3483367318029364598
+    second: Swimming Pool Water|motion_Group001.001
+  - first:
+      74: -8238747930613217268
+    second: Swimming Pool Water|motion_Group002.001
+  - first:
+      74: 6786733237945785349
+    second: Swimming Pool Water|motion_Group003.001
+  - first:
+      74: -8882784531680092449
+    second: Swimming Pool Water|motion_Group004.001
+  - first:
+      74: -1791123314326746639
+    second: Swimming Pool Water|motion_Group005.001
+  - first:
+      74: -7899500510233494012
+    second: Swimming Pool Water|motion_Group006.001
+  - first:
+      74: 8781640533653041945
+    second: Swimming Pool Water|motion_Group007.001
+  - first:
+      74: 5433119575642595939
+    second: Swimming Pool Water|motion_Group008.001
+  - first:
+      74: -3268885935361517043
+    second: Swimming Pool Water|motion_Group009.002
+  - first:
+      74: 7695069393320284301
+    second: Swimming Pool Water|motion_VIFS052
+  - first:
+      74: -6670881208575430819
+    second: Swimming Pool Water|motion_VIFS060
+  - first:
+      74: 1195154057084657680
+    second: Swimming Pool Water|motion_VIFS075
+  - first:
+      74: 7412079638385795502
+    second: Swimming Pool Water|motion_VIFS076
+  - first:
+      74: -6744028880308829646
+    second: Swimming Pool Water|motion_VIFS077
+  - first:
+      74: -6989281554129473390
+    second: Swimming Pool Water|motion_VIFS078.001
+  - first:
+      74: 4500290946873837313
+    second: Swimming Pool Water|motion_VIFS079
+  - first:
+      74: 7573885341165836597
+    second: Swimming Pool Water|Take 001_Group004
+  - first:
+      74: -3694266579108759177
+    second: Swimming Pool Water|Take 001_Group005
+  - first:
+      74: 1229505338998982354
+    second: Swimming Pool Water|Take 001_Group006
+  - first:
+      74: 7504841033203054995
+    second: Swimming Pool Water|Take 001_Group009.001
+  - first:
+      74: 4703301444791285597
+    second: Swimming Pool Water|Take 001_Group010
+  - first:
+      74: -681809290815870485
+    second: Swimming Pool Water|Take 001_Group038
+  - first:
+      74: -3053313275137470465
+    second: Swimming Pool Water|Take 001_Group039
+  - first:
+      74: -6672792757760268806
+    second: Swimming Pool Water|Take 001_Group040
+  - first:
+      74: -9075118408140859566
+    second: Swimming Pool Water|Take 001_Group041
+  - first:
+      74: -7604372812440972524
+    second: Swimming Pool Water|Take 001_Object002
+  - first:
+      74: 976646620471314585
+    second: Swimming Pool Water|Take 001_Object004
+  - first:
+      74: 5707487027004013269
+    second: Swimming Pool Water|Take 001_Object005
+  - first:
+      74: -7506658745555872353
+    second: Swimming Pool Water|Take 001_Object062
+  - first:
+      74: 2185987159972324762
+    second: Swimming Pool Water|Take 001_Object064
+  - first:
+      74: -8898724919072632578
+    second: Swimming Pool Water|Take 001_Object066
+  - first:
+      74: -2786437637761323874
+    second: Swimming Pool Water|Take 001_Object068
+  - first:
+      74: 5923280167310778444
+    second: Swimming Pool Water|Take 001_Plane002
+  - first:
+      74: 888933081985209410
+    second: Swimming Pool Water|Take 001_Plane003
+  - first:
+      74: 4621028758430922702
+    second: Swimming Pool Water|Take 001_Plane004
+  - first:
+      74: -3820506105870043292
+    second: Swimming Pool Water|Take 001_VIFS030
+  - first:
+      74: -1938719366864147862
+    second: Swimming Pool Water|Take 001_VIFS035
+  - first:
+      74: 6033506052320776225
+    second: Group041|motion_Group001.001
+  - first:
+      74: 1019032516342904696
+    second: Group041|motion_Group002.001
+  - first:
+      74: -5446645490083500529
+    second: Group041|motion_Group003.001
+  - first:
+      74: -1087935563186646255
+    second: Group041|motion_Group004.001
+  - first:
+      74: -759478700313079924
+    second: Group041|motion_Group005.001
+  - first:
+      74: -8206061233695618731
+    second: Group041|motion_Group006.001
+  - first:
+      74: -6372815215417952159
+    second: Group041|motion_Group007.001
+  - first:
+      74: -5423651285555121240
+    second: Group041|motion_Group008.001
+  - first:
+      74: 3820260065287291931
+    second: Group041|motion_Group009.002
+  - first:
+      74: 5716333452322947674
+    second: Group041|motion_VIFS052
+  - first:
+      74: -5274175329741156897
+    second: Group041|motion_VIFS060
+  - first:
+      74: 7800422147827731297
+    second: Group041|motion_VIFS075
+  - first:
+      74: -2180391284594940318
+    second: Group041|motion_VIFS076
+  - first:
+      74: 2355245386527073505
+    second: Group041|motion_VIFS077
+  - first:
+      74: 562486503252405863
+    second: Group041|motion_VIFS078.001
+  - first:
+      74: -3196448105659698691
+    second: Group041|motion_VIFS079
+  - first:
+      74: 1658466577652266557
+    second: Group041|Take 001_Group004
+  - first:
+      74: 1711585957387464859
+    second: Group041|Take 001_Group005
+  - first:
+      74: -4350104506990337767
+    second: Group041|Take 001_Group006
+  - first:
+      74: 2214288749007846753
+    second: Group041|Take 001_Group009.001
+  - first:
+      74: 7196389672351552159
+    second: Group041|Take 001_Group010
+  - first:
+      74: 6150046862873487428
+    second: Group041|Take 001_Group038
+  - first:
+      74: -2457947928590125360
+    second: Group041|Take 001_Group039
+  - first:
+      74: -1636203367753338062
+    second: Group041|Take 001_Group040
+  - first:
+      74: 5678497984644500004
+    second: Group041|Take 001_Group041
+  - first:
+      74: 1098635732352313731
+    second: Group041|Take 001_Object002
+  - first:
+      74: 9114841099185485058
+    second: Group041|Take 001_Object004
+  - first:
+      74: 758918194812792939
+    second: Group041|Take 001_Object005
+  - first:
+      74: -9016363791471475421
+    second: Group041|Take 001_Object062
+  - first:
+      74: 6089591228150551929
+    second: Group041|Take 001_Object064
+  - first:
+      74: 4006139707219534426
+    second: Group041|Take 001_Object066
+  - first:
+      74: -1445190562599689307
+    second: Group041|Take 001_Object068
+  - first:
+      74: 9123273785988596411
+    second: Group041|Take 001_Plane002
+  - first:
+      74: 2605390044498458538
+    second: Group041|Take 001_Plane003
+  - first:
+      74: 202894708548017862
+    second: Group041|Take 001_Plane004
+  - first:
+      74: 6076352619219229358
+    second: Group041|Take 001_VIFS030
+  - first:
+      74: 2782277954775066755
+    second: Group041|Take 001_VIFS035
+  - first:
+      74: -3462565293733067769
+    second: Group040|motion_Group001.001
+  - first:
+      74: 5403802217317317151
+    second: Group040|motion_Group002.001
+  - first:
+      74: 1143318720489577784
+    second: Group040|motion_Group003.001
+  - first:
+      74: 5838354233013608202
+    second: Group040|motion_Group004.001
+  - first:
+      74: 1919241150223786748
+    second: Group040|motion_Group005.001
+  - first:
+      74: -6839573207641233758
+    second: Group040|motion_Group006.001
+  - first:
+      74: 6545207358797955486
+    second: Group040|motion_Group007.001
+  - first:
+      74: 5074737323757248033
+    second: Group040|motion_Group008.001
+  - first:
+      74: 7962550296680923168
+    second: Group040|motion_Group009.002
+  - first:
+      74: -2232654811104979328
+    second: Group040|motion_VIFS052
+  - first:
+      74: -4940100846833993632
+    second: Group040|motion_VIFS060
+  - first:
+      74: -8751130361695491544
+    second: Group040|motion_VIFS075
+  - first:
+      74: -5487737065124647537
+    second: Group040|motion_VIFS076
+  - first:
+      74: 1896748010280861058
+    second: Group040|motion_VIFS077
+  - first:
+      74: 6310076277694666263
+    second: Group040|motion_VIFS078.001
+  - first:
+      74: 1271534768616020816
+    second: Group040|motion_VIFS079
+  - first:
+      74: -3858808251485555136
+    second: Group040|Take 001_Group004
+  - first:
+      74: -5632687896343683522
+    second: Group040|Take 001_Group005
+  - first:
+      74: 3782652348003729869
+    second: Group040|Take 001_Group006
+  - first:
+      74: 1563870777157378745
+    second: Group040|Take 001_Group009.001
+  - first:
+      74: -383113096195339503
+    second: Group040|Take 001_Group010
+  - first:
+      74: -670444124447302142
+    second: Group040|Take 001_Group038
+  - first:
+      74: -3597155526280967629
+    second: Group040|Take 001_Group039
+  - first:
+      74: -2852310466981016556
+    second: Group040|Take 001_Group040
+  - first:
+      74: 7630251486630035164
+    second: Group040|Take 001_Group041
+  - first:
+      74: -4561962781607636975
+    second: Group040|Take 001_Object002
+  - first:
+      74: 3665093877561707515
+    second: Group040|Take 001_Object004
+  - first:
+      74: 4952033628369479819
+    second: Group040|Take 001_Object005
+  - first:
+      74: -7604605799863992301
+    second: Group040|Take 001_Object062
+  - first:
+      74: -3125184557741606437
+    second: Group040|Take 001_Object064
+  - first:
+      74: 4023481127800860982
+    second: Group040|Take 001_Object066
+  - first:
+      74: -4500732771276959984
+    second: Group040|Take 001_Object068
+  - first:
+      74: -225705194012094433
+    second: Group040|Take 001_Plane002
+  - first:
+      74: -1801687596201471822
+    second: Group040|Take 001_Plane003
+  - first:
+      74: 1180380487711531281
+    second: Group040|Take 001_Plane004
+  - first:
+      74: 6131970669632514714
+    second: Group040|Take 001_VIFS030
+  - first:
+      74: 7607529799057256202
+    second: Group040|Take 001_VIFS035
+  - first:
+      74: 5825082473539089111
+    second: Group039|motion_Group001.001
+  - first:
+      74: -8123400769129355864
+    second: Group039|motion_Group002.001
+  - first:
+      74: -305865484924591488
+    second: Group039|motion_Group003.001
+  - first:
+      74: 1258855970656362594
+    second: Group039|motion_Group004.001
+  - first:
+      74: 1128653511207630822
+    second: Group039|motion_Group005.001
+  - first:
+      74: -4979550954622705535
+    second: Group039|motion_Group006.001
+  - first:
+      74: 2836849218267370970
+    second: Group039|motion_Group007.001
+  - first:
+      74: 2230980982788443683
+    second: Group039|motion_Group008.001
+  - first:
+      74: 7155641750900301224
+    second: Group039|motion_Group009.002
+  - first:
+      74: 6535430889314716414
+    second: Group039|motion_VIFS052
+  - first:
+      74: 6965549601858147846
+    second: Group039|motion_VIFS060
+  - first:
+      74: 928765174190255537
+    second: Group039|motion_VIFS075
+  - first:
+      74: -4079264522423371325
+    second: Group039|motion_VIFS076
+  - first:
+      74: -7134543009214785270
+    second: Group039|motion_VIFS077
+  - first:
+      74: -6250291483632445143
+    second: Group039|motion_VIFS078.001
+  - first:
+      74: -4619951678757627401
+    second: Group039|motion_VIFS079
+  - first:
+      74: 4040339976759066408
+    second: Group039|Take 001_Group004
+  - first:
+      74: 951745206352898112
+    second: Group039|Take 001_Group005
+  - first:
+      74: 3871361929262114233
+    second: Group039|Take 001_Group006
+  - first:
+      74: -5949027650753385904
+    second: Group039|Take 001_Group009.001
+  - first:
+      74: -8022686633266331458
+    second: Group039|Take 001_Group010
+  - first:
+      74: -1199141066351883705
+    second: Group039|Take 001_Group038
+  - first:
+      74: -3405166250686769436
+    second: Group039|Take 001_Group039
+  - first:
+      74: 4932859314338810087
+    second: Group039|Take 001_Group040
+  - first:
+      74: 2324748870920081920
+    second: Group039|Take 001_Group041
+  - first:
+      74: -3846660261725459795
+    second: Group039|Take 001_Object002
+  - first:
+      74: 3704702551790464696
+    second: Group039|Take 001_Object004
+  - first:
+      74: 699351595863457771
+    second: Group039|Take 001_Object005
+  - first:
+      74: 6444205621235581589
+    second: Group039|Take 001_Object062
+  - first:
+      74: -2496065276880163920
+    second: Group039|Take 001_Object064
+  - first:
+      74: -6627255739038253669
+    second: Group039|Take 001_Object066
+  - first:
+      74: -6941597567848827975
+    second: Group039|Take 001_Object068
+  - first:
+      74: -5445844389255155855
+    second: Group039|Take 001_Plane002
+  - first:
+      74: 5215047758050558279
+    second: Group039|Take 001_Plane003
+  - first:
+      74: -5803447960528153205
+    second: Group039|Take 001_Plane004
+  - first:
+      74: 7542278348914297990
+    second: Group039|Take 001_VIFS030
+  - first:
+      74: 3218968750721441586
+    second: Group039|Take 001_VIFS035
+  - first:
+      74: 4341861177685704018
+    second: VIFS035|motion_Group001.001
+  - first:
+      74: -1268329639872151161
+    second: VIFS035|motion_Group002.001
+  - first:
+      74: 4697475695324746368
+    second: VIFS035|motion_Group003.001
+  - first:
+      74: 6130647222340014125
+    second: VIFS035|motion_Group004.001
+  - first:
+      74: 8567854057318604113
+    second: VIFS035|motion_Group005.001
+  - first:
+      74: -576688611069587675
+    second: VIFS035|motion_Group006.001
+  - first:
+      74: 7774846233584231223
+    second: VIFS035|motion_Group007.001
+  - first:
+      74: 6080356284312799709
+    second: VIFS035|motion_Group008.001
+  - first:
+      74: -5103540214732721166
+    second: VIFS035|motion_Group009.002
+  - first:
+      74: 7532730018526398534
+    second: VIFS035|motion_VIFS052
+  - first:
+      74: -513745574581433849
+    second: VIFS035|motion_VIFS060
+  - first:
+      74: 3744727218650111944
+    second: VIFS035|motion_VIFS075
+  - first:
+      74: -3882607141000245565
+    second: VIFS035|motion_VIFS076
+  - first:
+      74: -1427000086164400951
+    second: VIFS035|motion_VIFS077
+  - first:
+      74: 6982674239988493366
+    second: VIFS035|motion_VIFS078.001
+  - first:
+      74: -7101276840857440984
+    second: VIFS035|motion_VIFS079
+  - first:
+      74: 3420597263932085030
+    second: VIFS035|Take 001_Group004
+  - first:
+      74: 6229379789711112309
+    second: VIFS035|Take 001_Group005
+  - first:
+      74: -5796550793587699776
+    second: VIFS035|Take 001_Group006
+  - first:
+      74: -6507461276311545925
+    second: VIFS035|Take 001_Group009.001
+  - first:
+      74: 8837693668686852547
+    second: VIFS035|Take 001_Group010
+  - first:
+      74: 7820371188982295917
+    second: VIFS035|Take 001_Group038
+  - first:
+      74: 6588845118097998860
+    second: VIFS035|Take 001_Group039
+  - first:
+      74: 1047164714342805817
+    second: VIFS035|Take 001_Group040
+  - first:
+      74: 3170065623493062162
+    second: VIFS035|Take 001_Group041
+  - first:
+      74: 4790758002645235003
+    second: VIFS035|Take 001_Object002
+  - first:
+      74: 3943439653709155090
+    second: VIFS035|Take 001_Object004
+  - first:
+      74: -8758482016049931420
+    second: VIFS035|Take 001_Object005
+  - first:
+      74: -7609505172433184193
+    second: VIFS035|Take 001_Object062
+  - first:
+      74: -6368829972780596632
+    second: VIFS035|Take 001_Object064
+  - first:
+      74: -2297565922533281420
+    second: VIFS035|Take 001_Object066
+  - first:
+      74: 813044960970278982
+    second: VIFS035|Take 001_Object068
+  - first:
+      74: -3408852914838876917
+    second: VIFS035|Take 001_Plane002
+  - first:
+      74: -689270912235473290
+    second: VIFS035|Take 001_Plane003
+  - first:
+      74: -4736220923866844841
+    second: VIFS035|Take 001_Plane004
+  - first:
+      74: -7542165958713412701
+    second: VIFS035|Take 001_VIFS030
+  - first:
+      74: 7242051562542268602
+    second: VIFS035|Take 001_VIFS035
+  - first:
+      74: -3890875606063318938
+    second: Group038|motion_Group001.001
+  - first:
+      74: 8051509596899170424
+    second: Group038|motion_Group002.001
+  - first:
+      74: 2444628139566531562
+    second: Group038|motion_Group003.001
+  - first:
+      74: 6829311510659673249
+    second: Group038|motion_Group004.001
+  - first:
+      74: 1144203930763017129
+    second: Group038|motion_Group005.001
+  - first:
+      74: 2263359348222401972
+    second: Group038|motion_Group006.001
+  - first:
+      74: 9140823785919747512
+    second: Group038|motion_Group007.001
+  - first:
+      74: -893939657316992658
+    second: Group038|motion_Group008.001
+  - first:
+      74: -892074286773274665
+    second: Group038|motion_Group009.002
+  - first:
+      74: -2153962104866250769
+    second: Group038|motion_VIFS052
+  - first:
+      74: 5439575372722881955
+    second: Group038|motion_VIFS060
+  - first:
+      74: 6530034448962343480
+    second: Group038|motion_VIFS075
+  - first:
+      74: -2332262080050097987
+    second: Group038|motion_VIFS076
+  - first:
+      74: -5842095833500415753
+    second: Group038|motion_VIFS077
+  - first:
+      74: -8351699030629537040
+    second: Group038|motion_VIFS078.001
+  - first:
+      74: -3104181252813285442
+    second: Group038|motion_VIFS079
+  - first:
+      74: -5262847759970922164
+    second: Group038|Take 001_Group004
+  - first:
+      74: -3070953837225438209
+    second: Group038|Take 001_Group005
+  - first:
+      74: 9009968207948953279
+    second: Group038|Take 001_Group006
+  - first:
+      74: 7428603287194274854
+    second: Group038|Take 001_Group009.001
+  - first:
+      74: 2447780633559887036
+    second: Group038|Take 001_Group010
+  - first:
+      74: 8780801771906020350
+    second: Group038|Take 001_Group038
+  - first:
+      74: -8067621391126212609
+    second: Group038|Take 001_Group039
+  - first:
+      74: -1720520558901696994
+    second: Group038|Take 001_Group040
+  - first:
+      74: 1456486627106040210
+    second: Group038|Take 001_Group041
+  - first:
+      74: -3446288254298059497
+    second: Group038|Take 001_Object002
+  - first:
+      74: -7021636641444671887
+    second: Group038|Take 001_Object004
+  - first:
+      74: -1310580180972400199
+    second: Group038|Take 001_Object005
+  - first:
+      74: -488173281191332241
+    second: Group038|Take 001_Object062
+  - first:
+      74: -9000074911472152675
+    second: Group038|Take 001_Object064
+  - first:
+      74: -924766278877241500
+    second: Group038|Take 001_Object066
+  - first:
+      74: 5003793169771846578
+    second: Group038|Take 001_Object068
+  - first:
+      74: 3815356369206268511
+    second: Group038|Take 001_Plane002
+  - first:
+      74: 8067436857330958646
+    second: Group038|Take 001_Plane003
+  - first:
+      74: 2986957127903651377
+    second: Group038|Take 001_Plane004
+  - first:
+      74: 154410989067973654
+    second: Group038|Take 001_VIFS030
+  - first:
+      74: 1590693599274475430
+    second: Group038|Take 001_VIFS035
+  - first:
+      74: -3244352869136717678
+    second: VIFS030|motion_Group001.001
+  - first:
+      74: 2880518201621078484
+    second: VIFS030|motion_Group002.001
+  - first:
+      74: -970329703565063790
+    second: VIFS030|motion_Group003.001
+  - first:
+      74: 4547206809941042166
+    second: VIFS030|motion_Group004.001
+  - first:
+      74: 8783395414914084911
+    second: VIFS030|motion_Group005.001
+  - first:
+      74: -5123239311009950506
+    second: VIFS030|motion_Group006.001
+  - first:
+      74: -484797592800875272
+    second: VIFS030|motion_Group007.001
+  - first:
+      74: -7193978373227267535
+    second: VIFS030|motion_Group008.001
+  - first:
+      74: -6166101490367052424
+    second: VIFS030|motion_Group009.002
+  - first:
+      74: 2074590228780028429
+    second: VIFS030|motion_VIFS052
+  - first:
+      74: -2355028299853284849
+    second: VIFS030|motion_VIFS060
+  - first:
+      74: -2144635092063367036
+    second: VIFS030|motion_VIFS075
+  - first:
+      74: 6444523520248244526
+    second: VIFS030|motion_VIFS076
+  - first:
+      74: -6202035149995250790
+    second: VIFS030|motion_VIFS077
+  - first:
+      74: 4559738925339507064
+    second: VIFS030|motion_VIFS078.001
+  - first:
+      74: 2414657992516971509
+    second: VIFS030|motion_VIFS079
+  - first:
+      74: -839567843699340859
+    second: VIFS030|Take 001_Group004
+  - first:
+      74: -5096188093251079117
+    second: VIFS030|Take 001_Group005
+  - first:
+      74: -8576125568412700231
+    second: VIFS030|Take 001_Group006
+  - first:
+      74: -744946924825345363
+    second: VIFS030|Take 001_Group009.001
+  - first:
+      74: -7697797089583892401
+    second: VIFS030|Take 001_Group010
+  - first:
+      74: -1115330304583064713
+    second: VIFS030|Take 001_Group038
+  - first:
+      74: 5325526174511989486
+    second: VIFS030|Take 001_Group039
+  - first:
+      74: 2986045050044686673
+    second: VIFS030|Take 001_Group040
+  - first:
+      74: 3869771723666735953
+    second: VIFS030|Take 001_Group041
+  - first:
+      74: 6366634720937042890
+    second: VIFS030|Take 001_Object002
+  - first:
+      74: 7026996926594866711
+    second: VIFS030|Take 001_Object004
+  - first:
+      74: -6229275359004071389
+    second: VIFS030|Take 001_Object005
+  - first:
+      74: -8544116012635912391
+    second: VIFS030|Take 001_Object062
+  - first:
+      74: -164052630412281783
+    second: VIFS030|Take 001_Object064
+  - first:
+      74: 4600199819883223741
+    second: VIFS030|Take 001_Object066
+  - first:
+      74: 6086194910984152618
+    second: VIFS030|Take 001_Object068
+  - first:
+      74: 8153072276510482007
+    second: VIFS030|Take 001_Plane002
+  - first:
+      74: -5376095572620689533
+    second: VIFS030|Take 001_Plane003
+  - first:
+      74: 8238803330899933515
+    second: VIFS030|Take 001_Plane004
+  - first:
+      74: 3584689600201124833
+    second: VIFS030|Take 001_VIFS030
+  - first:
+      74: 8967767177547335166
+    second: VIFS030|Take 001_VIFS035
+  - first:
+      74: -8223760284824491047
+    second: Group010|motion_Group001.001
+  - first:
+      74: 895012055237712788
+    second: Group010|motion_Group002.001
+  - first:
+      74: -8497874199391185791
+    second: Group010|motion_Group003.001
+  - first:
+      74: -2495887165597794845
+    second: Group010|motion_Group004.001
+  - first:
+      74: 4738528306713073463
+    second: Group010|motion_Group005.001
+  - first:
+      74: -4407948292857166404
+    second: Group010|motion_Group006.001
+  - first:
+      74: -1439448902027080872
+    second: Group010|motion_Group007.001
+  - first:
+      74: -3620529943114681000
+    second: Group010|motion_Group008.001
+  - first:
+      74: -8593788846438938425
+    second: Group010|motion_Group009.002
+  - first:
+      74: 7251546370986166353
+    second: Group010|motion_VIFS052
+  - first:
+      74: 5008496075782626267
+    second: Group010|motion_VIFS060
+  - first:
+      74: -5364231440900721360
+    second: Group010|motion_VIFS075
+  - first:
+      74: -4559434155351362274
+    second: Group010|motion_VIFS076
+  - first:
+      74: 6363316605268068072
+    second: Group010|motion_VIFS077
+  - first:
+      74: 5704804186737487368
+    second: Group010|motion_VIFS078.001
+  - first:
+      74: 9023017647160131023
+    second: Group010|motion_VIFS079
+  - first:
+      74: -7996219890728498470
+    second: Group010|Take 001_Group004
+  - first:
+      74: -8634928285468764546
+    second: Group010|Take 001_Group005
+  - first:
+      74: -1129848495457459670
+    second: Group010|Take 001_Group006
+  - first:
+      74: -4556828468581779363
+    second: Group010|Take 001_Group009.001
+  - first:
+      74: -2714425022134702080
+    second: Group010|Take 001_Group010
+  - first:
+      74: 9195641253343838405
+    second: Group010|Take 001_Group038
+  - first:
+      74: 4180609814472571999
+    second: Group010|Take 001_Group039
+  - first:
+      74: -2202557963364475525
+    second: Group010|Take 001_Group040
+  - first:
+      74: 4276933790893502339
+    second: Group010|Take 001_Group041
+  - first:
+      74: -3747975832988130264
+    second: Group010|Take 001_Object002
+  - first:
+      74: -2109892589194931781
+    second: Group010|Take 001_Object004
+  - first:
+      74: -2008494412682263009
+    second: Group010|Take 001_Object005
+  - first:
+      74: -3408621233128896610
+    second: Group010|Take 001_Object062
+  - first:
+      74: 6151618510341247302
+    second: Group010|Take 001_Object064
+  - first:
+      74: -2917122050808798866
+    second: Group010|Take 001_Object066
+  - first:
+      74: 1418355205760170305
+    second: Group010|Take 001_Object068
+  - first:
+      74: 3470720228964983202
+    second: Group010|Take 001_Plane002
+  - first:
+      74: 1054352683062904039
+    second: Group010|Take 001_Plane003
+  - first:
+      74: -1851361639571693132
+    second: Group010|Take 001_Plane004
+  - first:
+      74: 7165105856644967497
+    second: Group010|Take 001_VIFS030
+  - first:
+      74: -6072121205682636755
+    second: Group010|Take 001_VIFS035
+  - first:
+      74: 8990689694758217368
+    second: Plane002|motion_Group001.001
+  - first:
+      74: -7958163086794535408
+    second: Plane002|motion_Group002.001
+  - first:
+      74: 8458442863710998614
+    second: Plane002|motion_Group003.001
+  - first:
+      74: 3775756962953783920
+    second: Plane002|motion_Group004.001
+  - first:
+      74: -3717009331796488347
+    second: Plane002|motion_Group005.001
+  - first:
+      74: -3081261744274077270
+    second: Plane002|motion_Group006.001
+  - first:
+      74: 1182867322324548071
+    second: Plane002|motion_Group007.001
+  - first:
+      74: 7849203809888677772
+    second: Plane002|motion_Group008.001
+  - first:
+      74: 396346031260243508
+    second: Plane002|motion_Group009.002
+  - first:
+      74: 6670343537103624430
+    second: Plane002|motion_VIFS052
+  - first:
+      74: 330809021158168621
+    second: Plane002|motion_VIFS060
+  - first:
+      74: -1363652950225553183
+    second: Plane002|motion_VIFS075
+  - first:
+      74: -8781188151008728938
+    second: Plane002|motion_VIFS076
+  - first:
+      74: -8297859376386614454
+    second: Plane002|motion_VIFS077
+  - first:
+      74: -405711242123567008
+    second: Plane002|motion_VIFS078.001
+  - first:
+      74: 1440654614352567859
+    second: Plane002|motion_VIFS079
+  - first:
+      74: 3086714511274030059
+    second: Plane002|Take 001_Group004
+  - first:
+      74: -9024880302803109269
+    second: Plane002|Take 001_Group005
+  - first:
+      74: -4416413288120069296
+    second: Plane002|Take 001_Group006
+  - first:
+      74: 2891547765029320008
+    second: Plane002|Take 001_Group009.001
+  - first:
+      74: 1328767204256539565
+    second: Plane002|Take 001_Group010
+  - first:
+      74: 8701525783078501550
+    second: Plane002|Take 001_Group038
+  - first:
+      74: -5352073225214723206
+    second: Plane002|Take 001_Group039
+  - first:
+      74: -219923906484179066
+    second: Plane002|Take 001_Group040
+  - first:
+      74: -5110561306650555882
+    second: Plane002|Take 001_Group041
+  - first:
+      74: -9068695236464354667
+    second: Plane002|Take 001_Object002
+  - first:
+      74: -8876298260334015749
+    second: Plane002|Take 001_Object004
+  - first:
+      74: -28761654545706753
+    second: Plane002|Take 001_Object005
+  - first:
+      74: -2610509252300192846
+    second: Plane002|Take 001_Object062
+  - first:
+      74: 2368747363827605555
+    second: Plane002|Take 001_Object064
+  - first:
+      74: 8181871246422851091
+    second: Plane002|Take 001_Object066
+  - first:
+      74: -1670898902621170964
+    second: Plane002|Take 001_Object068
+  - first:
+      74: 6735210340816157943
+    second: Plane002|Take 001_Plane002
+  - first:
+      74: -3002504762500779133
+    second: Plane002|Take 001_Plane003
+  - first:
+      74: 6223518998383180740
+    second: Plane002|Take 001_Plane004
+  - first:
+      74: 3973517780353749879
+    second: Plane002|Take 001_VIFS030
+  - first:
+      74: 5911864766955480928
+    second: Plane002|Take 001_VIFS035
+  - first:
+      74: 7015346808371366933
+    second: Object002|motion_Group001.001
+  - first:
+      74: -2076856954476529672
+    second: Object002|motion_Group002.001
+  - first:
+      74: 1558612403769236778
+    second: Object002|motion_Group003.001
+  - first:
+      74: -8896223670716234915
+    second: Object002|motion_Group004.001
+  - first:
+      74: 1285908045010304340
+    second: Object002|motion_Group005.001
+  - first:
+      74: -6897872328917001808
+    second: Object002|motion_Group006.001
+  - first:
+      74: 945379595754452377
+    second: Object002|motion_Group007.001
+  - first:
+      74: -1839927162600272745
+    second: Object002|motion_Group008.001
+  - first:
+      74: -5234694809742313014
+    second: Object002|motion_Group009.002
+  - first:
+      74: 4166404526771459719
+    second: Object002|motion_VIFS052
+  - first:
+      74: -5047065308703499328
+    second: Object002|motion_VIFS060
+  - first:
+      74: 1039557659100865787
+    second: Object002|motion_VIFS075
+  - first:
+      74: 4177148491575040157
+    second: Object002|motion_VIFS076
+  - first:
+      74: -2084381149929487077
+    second: Object002|motion_VIFS077
+  - first:
+      74: -7430456596169858931
+    second: Object002|motion_VIFS078.001
+  - first:
+      74: -1716567052265696727
+    second: Object002|motion_VIFS079
+  - first:
+      74: -6064959719958796165
+    second: Object002|Take 001_Group004
+  - first:
+      74: 8995309587942320083
+    second: Object002|Take 001_Group005
+  - first:
+      74: -1466192979576788907
+    second: Object002|Take 001_Group006
+  - first:
+      74: -5832018453513841370
+    second: Object002|Take 001_Group009.001
+  - first:
+      74: -7589277182589336176
+    second: Object002|Take 001_Group010
+  - first:
+      74: 4862689495845830520
+    second: Object002|Take 001_Group038
+  - first:
+      74: -817125709169887846
+    second: Object002|Take 001_Group039
+  - first:
+      74: -1664319211436509087
+    second: Object002|Take 001_Group040
+  - first:
+      74: 6017099967607948255
+    second: Object002|Take 001_Group041
+  - first:
+      74: -8805356715512005462
+    second: Object002|Take 001_Object002
+  - first:
+      74: -3205361451956778077
+    second: Object002|Take 001_Object004
+  - first:
+      74: -6694430624307598166
+    second: Object002|Take 001_Object005
+  - first:
+      74: -542928117035205981
+    second: Object002|Take 001_Object062
+  - first:
+      74: -8655535995855334650
+    second: Object002|Take 001_Object064
+  - first:
+      74: -1206351471219985438
+    second: Object002|Take 001_Object066
+  - first:
+      74: -7870699651747126234
+    second: Object002|Take 001_Object068
+  - first:
+      74: 4007561072411026160
+    second: Object002|Take 001_Plane002
+  - first:
+      74: 2768552894543693844
+    second: Object002|Take 001_Plane003
+  - first:
+      74: -3520143496982145870
+    second: Object002|Take 001_Plane004
+  - first:
+      74: 7029331076876649430
+    second: Object002|Take 001_VIFS030
+  - first:
+      74: -1869025956829882198
+    second: Object002|Take 001_VIFS035
+  - first:
+      74: 1318216368139616457
+    second: Group009.001|motion_Group001.001
+  - first:
+      74: -7392725670802456782
+    second: Group009.001|motion_Group002.001
+  - first:
+      74: 6504551631583944631
+    second: Group009.001|motion_Group003.001
+  - first:
+      74: -2583321485704132322
+    second: Group009.001|motion_Group004.001
+  - first:
+      74: 4432127779403203944
+    second: Group009.001|motion_Group005.001
+  - first:
+      74: 1395296034532770281
+    second: Group009.001|motion_Group006.001
+  - first:
+      74: 8138406396054468527
+    second: Group009.001|motion_Group007.001
+  - first:
+      74: 5216432572563354519
+    second: Group009.001|motion_Group008.001
+  - first:
+      74: -5937744711241819733
+    second: Group009.001|motion_Group009.002
+  - first:
+      74: 7782661966724578426
+    second: Group009.001|motion_VIFS052
+  - first:
+      74: -378198325070623456
+    second: Group009.001|motion_VIFS060
+  - first:
+      74: 6090047671370357521
+    second: Group009.001|motion_VIFS075
+  - first:
+      74: 111365022435570194
+    second: Group009.001|motion_VIFS076
+  - first:
+      74: 530006814992327472
+    second: Group009.001|motion_VIFS077
+  - first:
+      74: 6024752321007813935
+    second: Group009.001|motion_VIFS078.001
+  - first:
+      74: -5551198575030853298
+    second: Group009.001|motion_VIFS079
+  - first:
+      74: 1243046686766642214
+    second: Group009.001|Take 001_Group004
+  - first:
+      74: -1353248920158807658
+    second: Group009.001|Take 001_Group005
+  - first:
+      74: 682062006307825349
+    second: Group009.001|Take 001_Group006
+  - first:
+      74: 5100594665359465073
+    second: Group009.001|Take 001_Group009.001
+  - first:
+      74: -4828228314022006445
+    second: Group009.001|Take 001_Group010
+  - first:
+      74: 8999094146718309091
+    second: Group009.001|Take 001_Group038
+  - first:
+      74: -8322211537472894992
+    second: Group009.001|Take 001_Group039
+  - first:
+      74: 8289912382260519872
+    second: Group009.001|Take 001_Group040
+  - first:
+      74: -7528442868371938298
+    second: Group009.001|Take 001_Group041
+  - first:
+      74: -6634716953084731362
+    second: Group009.001|Take 001_Object002
+  - first:
+      74: -5370654348141750046
+    second: Group009.001|Take 001_Object004
+  - first:
+      74: 6421539704993777726
+    second: Group009.001|Take 001_Object005
+  - first:
+      74: 7804176788915447807
+    second: Group009.001|Take 001_Object062
+  - first:
+      74: 4480153046642371985
+    second: Group009.001|Take 001_Object064
+  - first:
+      74: 2834685146282897362
+    second: Group009.001|Take 001_Object066
+  - first:
+      74: 1528476096445599520
+    second: Group009.001|Take 001_Object068
+  - first:
+      74: -7697535067950175086
+    second: Group009.001|Take 001_Plane002
+  - first:
+      74: -6625785726159550394
+    second: Group009.001|Take 001_Plane003
+  - first:
+      74: -7239872434817960889
+    second: Group009.001|Take 001_Plane004
+  - first:
+      74: 1194875509902014954
+    second: Group009.001|Take 001_VIFS030
+  - first:
+      74: 886797968712209085
+    second: Group009.001|Take 001_VIFS035
+  - first:
+      74: 64735948845810812
+    second: Object068|motion_Group001.001
+  - first:
+      74: -3287416571295878006
+    second: Object068|motion_Group002.001
+  - first:
+      74: -4776747965069536727
+    second: Object068|motion_Group003.001
+  - first:
+      74: -4203667247621652994
+    second: Object068|motion_Group004.001
+  - first:
+      74: -5224518451670211608
+    second: Object068|motion_Group005.001
+  - first:
+      74: 1639296154663418327
+    second: Object068|motion_Group006.001
+  - first:
+      74: 5145754911336261986
+    second: Object068|motion_Group007.001
+  - first:
+      74: -459519735634546629
+    second: Object068|motion_Group008.001
+  - first:
+      74: -5096070306303717247
+    second: Object068|motion_Group009.002
+  - first:
+      74: -7834340591136115050
+    second: Object068|motion_VIFS052
+  - first:
+      74: -5756796047011938627
+    second: Object068|motion_VIFS060
+  - first:
+      74: -7370163925644467504
+    second: Object068|motion_VIFS075
+  - first:
+      74: -8841457816555935627
+    second: Object068|motion_VIFS076
+  - first:
+      74: -529673831654904307
+    second: Object068|motion_VIFS077
+  - first:
+      74: -5608068310565199410
+    second: Object068|motion_VIFS078.001
+  - first:
+      74: -8005946401291004158
+    second: Object068|motion_VIFS079
+  - first:
+      74: -1246646705316903266
+    second: Object068|Take 001_Group004
+  - first:
+      74: 2036172952895697611
+    second: Object068|Take 001_Group005
+  - first:
+      74: 7365102290410628665
+    second: Object068|Take 001_Group006
+  - first:
+      74: -6682018152839873101
+    second: Object068|Take 001_Group009.001
+  - first:
+      74: -5701080787159099025
+    second: Object068|Take 001_Group010
+  - first:
+      74: 6001621591301001272
+    second: Object068|Take 001_Group038
+  - first:
+      74: 6956465757879037626
+    second: Object068|Take 001_Group039
+  - first:
+      74: -4701400754119005968
+    second: Object068|Take 001_Group040
+  - first:
+      74: -5937045991960658640
+    second: Object068|Take 001_Group041
+  - first:
+      74: -1464088511080598263
+    second: Object068|Take 001_Object002
+  - first:
+      74: 9009452907277405249
+    second: Object068|Take 001_Object004
+  - first:
+      74: 1972673604978920393
+    second: Object068|Take 001_Object005
+  - first:
+      74: 7392118059151165504
+    second: Object068|Take 001_Object062
+  - first:
+      74: -2377630266966877960
+    second: Object068|Take 001_Object064
+  - first:
+      74: 5510722765406776648
+    second: Object068|Take 001_Object066
+  - first:
+      74: -8418246691815680162
+    second: Object068|Take 001_Object068
+  - first:
+      74: 8291028554232177238
+    second: Object068|Take 001_Plane002
+  - first:
+      74: 2653063873452305995
+    second: Object068|Take 001_Plane003
+  - first:
+      74: 7427414104596264719
+    second: Object068|Take 001_Plane004
+  - first:
+      74: -8724450497554746943
+    second: Object068|Take 001_VIFS030
+  - first:
+      74: 679084754109044575
+    second: Object068|Take 001_VIFS035
+  - first:
+      74: -4437666640054695092
+    second: Object066|motion_Group001.001
+  - first:
+      74: 7472202127754954650
+    second: Object066|motion_Group002.001
+  - first:
+      74: 7525964964048891442
+    second: Object066|motion_Group003.001
+  - first:
+      74: -2686285397962025163
+    second: Object066|motion_Group004.001
+  - first:
+      74: -5836105020304918082
+    second: Object066|motion_Group005.001
+  - first:
+      74: 1021285377259270310
+    second: Object066|motion_Group006.001
+  - first:
+      74: 2571487861980551054
+    second: Object066|motion_Group007.001
+  - first:
+      74: -1405838485210006031
+    second: Object066|motion_Group008.001
+  - first:
+      74: 5730590271103633322
+    second: Object066|motion_Group009.002
+  - first:
+      74: 2308883938918919365
+    second: Object066|motion_VIFS052
+  - first:
+      74: 6193830926269518239
+    second: Object066|motion_VIFS060
+  - first:
+      74: 2866195849186898267
+    second: Object066|motion_VIFS075
+  - first:
+      74: -5264211007331635208
+    second: Object066|motion_VIFS076
+  - first:
+      74: -4732691891936535910
+    second: Object066|motion_VIFS077
+  - first:
+      74: -8540573439139533250
+    second: Object066|motion_VIFS078.001
+  - first:
+      74: -7177136810259347847
+    second: Object066|motion_VIFS079
+  - first:
+      74: -5387619407303985474
+    second: Object066|Take 001_Group004
+  - first:
+      74: -2499221903383386895
+    second: Object066|Take 001_Group005
+  - first:
+      74: 8992490208270962074
+    second: Object066|Take 001_Group006
+  - first:
+      74: 5516581922891573105
+    second: Object066|Take 001_Group009.001
+  - first:
+      74: -5111197430424992171
+    second: Object066|Take 001_Group010
+  - first:
+      74: 5643452732731349170
+    second: Object066|Take 001_Group038
+  - first:
+      74: 953300363107355694
+    second: Object066|Take 001_Group039
+  - first:
+      74: 4198684477000403063
+    second: Object066|Take 001_Group040
+  - first:
+      74: 8684720538550024910
+    second: Object066|Take 001_Group041
+  - first:
+      74: 6531246660639018411
+    second: Object066|Take 001_Object002
+  - first:
+      74: 8566802006128754302
+    second: Object066|Take 001_Object004
+  - first:
+      74: -5217854170665464944
+    second: Object066|Take 001_Object005
+  - first:
+      74: 4849695649823476562
+    second: Object066|Take 001_Object062
+  - first:
+      74: -1913401083105144579
+    second: Object066|Take 001_Object064
+  - first:
+      74: -7380403898146856179
+    second: Object066|Take 001_Object066
+  - first:
+      74: 875532306124565885
+    second: Object066|Take 001_Object068
+  - first:
+      74: 2972220349594426532
+    second: Object066|Take 001_Plane002
+  - first:
+      74: 871222232127239281
+    second: Object066|Take 001_Plane003
+  - first:
+      74: -7382879843989501211
+    second: Object066|Take 001_Plane004
+  - first:
+      74: -8855445950711034541
+    second: Object066|Take 001_VIFS030
+  - first:
+      74: -5310112642466208419
+    second: Object066|Take 001_VIFS035
+  - first:
+      74: 3074946475877812140
+    second: Group006|motion_Group001.001
+  - first:
+      74: 1551266334113465105
+    second: Group006|motion_Group002.001
+  - first:
+      74: -4739677815385462924
+    second: Group006|motion_Group003.001
+  - first:
+      74: 1265278488052970796
+    second: Group006|motion_Group004.001
+  - first:
+      74: 7228138955636204187
+    second: Group006|motion_Group005.001
+  - first:
+      74: -787954253602697177
+    second: Group006|motion_Group006.001
+  - first:
+      74: -1241929523656294067
+    second: Group006|motion_Group007.001
+  - first:
+      74: 244177706213458153
+    second: Group006|motion_Group008.001
+  - first:
+      74: -2870822229448762238
+    second: Group006|motion_Group009.002
+  - first:
+      74: -6073211841545984096
+    second: Group006|motion_VIFS052
+  - first:
+      74: 5689627236570061932
+    second: Group006|motion_VIFS060
+  - first:
+      74: 5871239498190303353
+    second: Group006|motion_VIFS075
+  - first:
+      74: -2669223463213871279
+    second: Group006|motion_VIFS076
+  - first:
+      74: 2457479026198653779
+    second: Group006|motion_VIFS077
+  - first:
+      74: 4267268347019934871
+    second: Group006|motion_VIFS078.001
+  - first:
+      74: -6781778021170281565
+    second: Group006|motion_VIFS079
+  - first:
+      74: 4691795552278385066
+    second: Group006|Take 001_Group004
+  - first:
+      74: 5965287836880288759
+    second: Group006|Take 001_Group005
+  - first:
+      74: -8622347130972898384
+    second: Group006|Take 001_Group006
+  - first:
+      74: -7968789539830857425
+    second: Group006|Take 001_Group009.001
+  - first:
+      74: 7781002818832996873
+    second: Group006|Take 001_Group010
+  - first:
+      74: 5075936430752196265
+    second: Group006|Take 001_Group038
+  - first:
+      74: 5609065246581390533
+    second: Group006|Take 001_Group039
+  - first:
+      74: 1862111637067645112
+    second: Group006|Take 001_Group040
+  - first:
+      74: -6877220279416971800
+    second: Group006|Take 001_Group041
+  - first:
+      74: -6055238161557722861
+    second: Group006|Take 001_Object002
+  - first:
+      74: 4420885949959653818
+    second: Group006|Take 001_Object004
+  - first:
+      74: 407400705138583862
+    second: Group006|Take 001_Object005
+  - first:
+      74: 6516477957119270229
+    second: Group006|Take 001_Object062
+  - first:
+      74: -4448818494766192483
+    second: Group006|Take 001_Object064
+  - first:
+      74: -2812915009413981315
+    second: Group006|Take 001_Object066
+  - first:
+      74: -7800521907551530964
+    second: Group006|Take 001_Object068
+  - first:
+      74: -1307057025952811551
+    second: Group006|Take 001_Plane002
+  - first:
+      74: -6809436454312103499
+    second: Group006|Take 001_Plane003
+  - first:
+      74: 3817189033806715390
+    second: Group006|Take 001_Plane004
+  - first:
+      74: 6665546657145860522
+    second: Group006|Take 001_VIFS030
+  - first:
+      74: 76928862050240692
+    second: Group006|Take 001_VIFS035
+  - first:
+      74: -8679393610619598820
+    second: Object064|motion_Group001.001
+  - first:
+      74: 7928367388981208284
+    second: Object064|motion_Group002.001
+  - first:
+      74: 684831961374490436
+    second: Object064|motion_Group003.001
+  - first:
+      74: -121874734478660542
+    second: Object064|motion_Group004.001
+  - first:
+      74: -961751540659225977
+    second: Object064|motion_Group005.001
+  - first:
+      74: -8164329730954029294
+    second: Object064|motion_Group006.001
+  - first:
+      74: -1966904402666983763
+    second: Object064|motion_Group007.001
+  - first:
+      74: -5231163089449546576
+    second: Object064|motion_Group008.001
+  - first:
+      74: -5496639640370840804
+    second: Object064|motion_Group009.002
+  - first:
+      74: -2727020631639594927
+    second: Object064|motion_VIFS052
+  - first:
+      74: 5344852120526637931
+    second: Object064|motion_VIFS060
+  - first:
+      74: -7803103054546300694
+    second: Object064|motion_VIFS075
+  - first:
+      74: -5075228835646780390
+    second: Object064|motion_VIFS076
+  - first:
+      74: 5900531341095498327
+    second: Object064|motion_VIFS077
+  - first:
+      74: 5221154703466707108
+    second: Object064|motion_VIFS078.001
+  - first:
+      74: 2120525886814416551
+    second: Object064|motion_VIFS079
+  - first:
+      74: 9017513254178421903
+    second: Object064|Take 001_Group004
+  - first:
+      74: 8696915767418869964
+    second: Object064|Take 001_Group005
+  - first:
+      74: -6863067127697305742
+    second: Object064|Take 001_Group006
+  - first:
+      74: 7785010178971705211
+    second: Object064|Take 001_Group009.001
+  - first:
+      74: 2074284378375073475
+    second: Object064|Take 001_Group010
+  - first:
+      74: 7417705437448866123
+    second: Object064|Take 001_Group038
+  - first:
+      74: 7245368725112169198
+    second: Object064|Take 001_Group039
+  - first:
+      74: 635560839905129438
+    second: Object064|Take 001_Group040
+  - first:
+      74: 2517355253391705466
+    second: Object064|Take 001_Group041
+  - first:
+      74: -1784351307220991521
+    second: Object064|Take 001_Object002
+  - first:
+      74: 2694932525681690283
+    second: Object064|Take 001_Object004
+  - first:
+      74: 6406300788186399730
+    second: Object064|Take 001_Object005
+  - first:
+      74: 2598042018310944940
+    second: Object064|Take 001_Object062
+  - first:
+      74: -6940968558741547285
+    second: Object064|Take 001_Object064
+  - first:
+      74: 8716314593815209934
+    second: Object064|Take 001_Object066
+  - first:
+      74: 5908224974957766470
+    second: Object064|Take 001_Object068
+  - first:
+      74: 1761804545099720431
+    second: Object064|Take 001_Plane002
+  - first:
+      74: 8957046425776010182
+    second: Object064|Take 001_Plane003
+  - first:
+      74: 8330025444805311024
+    second: Object064|Take 001_Plane004
+  - first:
+      74: -7911442880209370624
+    second: Object064|Take 001_VIFS030
+  - first:
+      74: 6051079422003969595
+    second: Object064|Take 001_VIFS035
+  - first:
+      74: 6106337764268266104
+    second: Object062|motion_Group001.001
+  - first:
+      74: -2025562797164347211
+    second: Object062|motion_Group002.001
+  - first:
+      74: 9179627379930980083
+    second: Object062|motion_Group003.001
+  - first:
+      74: -573104380262937165
+    second: Object062|motion_Group004.001
+  - first:
+      74: 4564380677416788490
+    second: Object062|motion_Group005.001
+  - first:
+      74: 5374516083634516179
+    second: Object062|motion_Group006.001
+  - first:
+      74: 6455869033701876075
+    second: Object062|motion_Group007.001
+  - first:
+      74: 3794242347364288239
+    second: Object062|motion_Group008.001
+  - first:
+      74: -8926386103859800411
+    second: Object062|motion_Group009.002
+  - first:
+      74: -825677885362579941
+    second: Object062|motion_VIFS052
+  - first:
+      74: -3066799654963012242
+    second: Object062|motion_VIFS060
+  - first:
+      74: 6580061189537798167
+    second: Object062|motion_VIFS075
+  - first:
+      74: -8239578105599212275
+    second: Object062|motion_VIFS076
+  - first:
+      74: -7546681615106290357
+    second: Object062|motion_VIFS077
+  - first:
+      74: -5460327615211906078
+    second: Object062|motion_VIFS078.001
+  - first:
+      74: -5280405683587892272
+    second: Object062|motion_VIFS079
+  - first:
+      74: 2187732087382363675
+    second: Object062|Take 001_Group004
+  - first:
+      74: 836824463168162803
+    second: Object062|Take 001_Group005
+  - first:
+      74: 8035265457609173004
+    second: Object062|Take 001_Group006
+  - first:
+      74: -629127300437778276
+    second: Object062|Take 001_Group009.001
+  - first:
+      74: -8716162781621677860
+    second: Object062|Take 001_Group010
+  - first:
+      74: 761220012624750855
+    second: Object062|Take 001_Group038
+  - first:
+      74: 8084629791696510378
+    second: Object062|Take 001_Group039
+  - first:
+      74: 4094704855576683660
+    second: Object062|Take 001_Group040
+  - first:
+      74: -8736415726413241642
+    second: Object062|Take 001_Group041
+  - first:
+      74: 8873900265932718595
+    second: Object062|Take 001_Object002
+  - first:
+      74: -2208925435902180749
+    second: Object062|Take 001_Object004
+  - first:
+      74: -3581637645396447799
+    second: Object062|Take 001_Object005
+  - first:
+      74: -2294169466379966238
+    second: Object062|Take 001_Object062
+  - first:
+      74: -4140705815747768977
+    second: Object062|Take 001_Object064
+  - first:
+      74: -6604883353246471643
+    second: Object062|Take 001_Object066
+  - first:
+      74: 869702622052921749
+    second: Object062|Take 001_Object068
+  - first:
+      74: 4310787550938641039
+    second: Object062|Take 001_Plane002
+  - first:
+      74: -4805235959209813405
+    second: Object062|Take 001_Plane003
+  - first:
+      74: -3821491481746141640
+    second: Object062|Take 001_Plane004
+  - first:
+      74: -7037169530002069177
+    second: Object062|Take 001_VIFS030
+  - first:
+      74: 5859408114619274413
+    second: Object062|Take 001_VIFS035
+  - first:
+      74: -2275705626708655782
+    second: Group005|motion_Group001.001
+  - first:
+      74: 8535199573830840168
+    second: Group005|motion_Group002.001
+  - first:
+      74: 7632371643192843125
+    second: Group005|motion_Group003.001
+  - first:
+      74: -3685992077571865586
+    second: Group005|motion_Group004.001
+  - first:
+      74: -8326166482292245276
+    second: Group005|motion_Group005.001
+  - first:
+      74: -8344234375918938351
+    second: Group005|motion_Group006.001
+  - first:
+      74: 2505948928517426664
+    second: Group005|motion_Group007.001
+  - first:
+      74: 3780571579599484396
+    second: Group005|motion_Group008.001
+  - first:
+      74: -8601801144574802274
+    second: Group005|motion_Group009.002
+  - first:
+      74: -4369159851291468450
+    second: Group005|motion_VIFS052
+  - first:
+      74: 5709646956691227169
+    second: Group005|motion_VIFS060
+  - first:
+      74: 3315661071261657876
+    second: Group005|motion_VIFS075
+  - first:
+      74: 2127416434047085523
+    second: Group005|motion_VIFS076
+  - first:
+      74: -7664195828751839528
+    second: Group005|motion_VIFS077
+  - first:
+      74: -3370738208719340190
+    second: Group005|motion_VIFS078.001
+  - first:
+      74: 6492221318430372064
+    second: Group005|motion_VIFS079
+  - first:
+      74: 9157985509115757769
+    second: Group005|Take 001_Group004
+  - first:
+      74: 1752188736430181549
+    second: Group005|Take 001_Group005
+  - first:
+      74: -3253268381520853018
+    second: Group005|Take 001_Group006
+  - first:
+      74: 9029503207267678217
+    second: Group005|Take 001_Group009.001
+  - first:
+      74: -9215583392291356193
+    second: Group005|Take 001_Group010
+  - first:
+      74: 6871118298912725956
+    second: Group005|Take 001_Group038
+  - first:
+      74: 8642619657319342943
+    second: Group005|Take 001_Group039
+  - first:
+      74: -5571303093026269903
+    second: Group005|Take 001_Group040
+  - first:
+      74: 8006187911960714386
+    second: Group005|Take 001_Group041
+  - first:
+      74: -6431322841244352605
+    second: Group005|Take 001_Object002
+  - first:
+      74: 4999528746954802755
+    second: Group005|Take 001_Object004
+  - first:
+      74: 2981846796917016187
+    second: Group005|Take 001_Object005
+  - first:
+      74: -2927421286560014479
+    second: Group005|Take 001_Object062
+  - first:
+      74: 517640158390383403
+    second: Group005|Take 001_Object064
+  - first:
+      74: 8473412839905029057
+    second: Group005|Take 001_Object066
+  - first:
+      74: -2744860205666393685
+    second: Group005|Take 001_Object068
+  - first:
+      74: -2307829811423073325
+    second: Group005|Take 001_Plane002
+  - first:
+      74: -2067190859176023922
+    second: Group005|Take 001_Plane003
+  - first:
+      74: -1354348035479550402
+    second: Group005|Take 001_Plane004
+  - first:
+      74: -5329804565444991528
+    second: Group005|Take 001_VIFS030
+  - first:
+      74: -510295601923638678
+    second: Group005|Take 001_VIFS035
+  - first:
+      74: 639520386637974513
+    second: Object005|motion_Group001.001
+  - first:
+      74: -533584336517301301
+    second: Object005|motion_Group002.001
+  - first:
+      74: -3980358379175896342
+    second: Object005|motion_Group003.001
+  - first:
+      74: 1721009288857047447
+    second: Object005|motion_Group004.001
+  - first:
+      74: -5653739362371228422
+    second: Object005|motion_Group005.001
+  - first:
+      74: 7337271587142106668
+    second: Object005|motion_Group006.001
+  - first:
+      74: -713487905145285998
+    second: Object005|motion_Group007.001
+  - first:
+      74: -1458211767256793251
+    second: Object005|motion_Group008.001
+  - first:
+      74: -330344568754271514
+    second: Object005|motion_Group009.002
+  - first:
+      74: 8230152764652239014
+    second: Object005|motion_VIFS052
+  - first:
+      74: -3319822525792326531
+    second: Object005|motion_VIFS060
+  - first:
+      74: -4196010272185768525
+    second: Object005|motion_VIFS075
+  - first:
+      74: 2662932508159654952
+    second: Object005|motion_VIFS076
+  - first:
+      74: -4093611595525504144
+    second: Object005|motion_VIFS077
+  - first:
+      74: 5954884944055522100
+    second: Object005|motion_VIFS078.001
+  - first:
+      74: -2610342618202335897
+    second: Object005|motion_VIFS079
+  - first:
+      74: -1620109537241254634
+    second: Object005|Take 001_Group004
+  - first:
+      74: 7580667429129183469
+    second: Object005|Take 001_Group005
+  - first:
+      74: -7906031211820939151
+    second: Object005|Take 001_Group006
+  - first:
+      74: 2026319321005223815
+    second: Object005|Take 001_Group009.001
+  - first:
+      74: 4462012236549638123
+    second: Object005|Take 001_Group010
+  - first:
+      74: 8540645895561061699
+    second: Object005|Take 001_Group038
+  - first:
+      74: 6475467299340070116
+    second: Object005|Take 001_Group039
+  - first:
+      74: 2169625472449306205
+    second: Object005|Take 001_Group040
+  - first:
+      74: 5444987796290297984
+    second: Object005|Take 001_Group041
+  - first:
+      74: -4168103774959899309
+    second: Object005|Take 001_Object002
+  - first:
+      74: -2850689565439536130
+    second: Object005|Take 001_Object004
+  - first:
+      74: 7165345711008683191
+    second: Object005|Take 001_Object005
+  - first:
+      74: 1737634597421046405
+    second: Object005|Take 001_Object062
+  - first:
+      74: 1113877564589656489
+    second: Object005|Take 001_Object064
+  - first:
+      74: 6833917463072483826
+    second: Object005|Take 001_Object066
+  - first:
+      74: 1964814668882750823
+    second: Object005|Take 001_Object068
+  - first:
+      74: -7767254470088269649
+    second: Object005|Take 001_Plane002
+  - first:
+      74: -8735446849746420890
+    second: Object005|Take 001_Plane003
+  - first:
+      74: -4880935583059123151
+    second: Object005|Take 001_Plane004
+  - first:
+      74: 8587040270397365964
+    second: Object005|Take 001_VIFS030
+  - first:
+      74: 875743527356585410
+    second: Object005|Take 001_VIFS035
+  - first:
+      74: -8555919809483711250
+    second: Plane004|motion_Group001.001
+  - first:
+      74: 7841760192238727185
+    second: Plane004|motion_Group002.001
+  - first:
+      74: 7118853159202282042
+    second: Plane004|motion_Group003.001
+  - first:
+      74: 781700373932669884
+    second: Plane004|motion_Group004.001
+  - first:
+      74: -2695515665639060446
+    second: Plane004|motion_Group005.001
+  - first:
+      74: 6781099221628964243
+    second: Plane004|motion_Group006.001
+  - first:
+      74: 9220653696771697666
+    second: Plane004|motion_Group007.001
+  - first:
+      74: 2085323408570458304
+    second: Plane004|motion_Group008.001
+  - first:
+      74: -6222068530820404549
+    second: Plane004|motion_Group009.002
+  - first:
+      74: 1078370025116978948
+    second: Plane004|motion_VIFS052
+  - first:
+      74: -5999006058126432002
+    second: Plane004|motion_VIFS060
+  - first:
+      74: 3471675031580566245
+    second: Plane004|motion_VIFS075
+  - first:
+      74: 129854918735779456
+    second: Plane004|motion_VIFS076
+  - first:
+      74: 891223175554416164
+    second: Plane004|motion_VIFS077
+  - first:
+      74: -5611787936270612599
+    second: Plane004|motion_VIFS078.001
+  - first:
+      74: -3084884837235037969
+    second: Plane004|motion_VIFS079
+  - first:
+      74: -9032685800370605889
+    second: Plane004|Take 001_Group004
+  - first:
+      74: 5184616614547337048
+    second: Plane004|Take 001_Group005
+  - first:
+      74: 1290262941343066980
+    second: Plane004|Take 001_Group006
+  - first:
+      74: 5777185355703334191
+    second: Plane004|Take 001_Group009.001
+  - first:
+      74: 8636735714834055404
+    second: Plane004|Take 001_Group010
+  - first:
+      74: 2594020594132766782
+    second: Plane004|Take 001_Group038
+  - first:
+      74: -8269398830033972048
+    second: Plane004|Take 001_Group039
+  - first:
+      74: -6114631063152195544
+    second: Plane004|Take 001_Group040
+  - first:
+      74: 6019864169163318623
+    second: Plane004|Take 001_Group041
+  - first:
+      74: -1698368042475873881
+    second: Plane004|Take 001_Object002
+  - first:
+      74: 4748602556406090220
+    second: Plane004|Take 001_Object004
+  - first:
+      74: -5911606264176376179
+    second: Plane004|Take 001_Object005
+  - first:
+      74: 3877274863474738049
+    second: Plane004|Take 001_Object062
+  - first:
+      74: -4376458683998988227
+    second: Plane004|Take 001_Object064
+  - first:
+      74: -6018943925882457243
+    second: Plane004|Take 001_Object066
+  - first:
+      74: 5844091643679405982
+    second: Plane004|Take 001_Object068
+  - first:
+      74: -2549904443181979064
+    second: Plane004|Take 001_Plane002
+  - first:
+      74: -925893976768665299
+    second: Plane004|Take 001_Plane003
+  - first:
+      74: 5990277330610294862
+    second: Plane004|Take 001_Plane004
+  - first:
+      74: 8984473987416746228
+    second: Plane004|Take 001_VIFS030
+  - first:
+      74: 2282449183897032683
+    second: Plane004|Take 001_VIFS035
+  - first:
+      74: 4515156585172952863
+    second: Group004|motion_Group001.001
+  - first:
+      74: 3674534209847330082
+    second: Group004|motion_Group002.001
+  - first:
+      74: -7729032267557905318
+    second: Group004|motion_Group003.001
+  - first:
+      74: -54117395647966024
+    second: Group004|motion_Group004.001
+  - first:
+      74: 8268842237800506212
+    second: Group004|motion_Group005.001
+  - first:
+      74: -7315733442973551629
+    second: Group004|motion_Group006.001
+  - first:
+      74: 7747467017503627786
+    second: Group004|motion_Group007.001
+  - first:
+      74: 2967984455470381787
+    second: Group004|motion_Group008.001
+  - first:
+      74: -7173782986344115771
+    second: Group004|motion_Group009.002
+  - first:
+      74: 3274526176098739242
+    second: Group004|motion_VIFS052
+  - first:
+      74: -9113455668510411765
+    second: Group004|motion_VIFS060
+  - first:
+      74: -3131536601366999189
+    second: Group004|motion_VIFS075
+  - first:
+      74: -3373694132015580684
+    second: Group004|motion_VIFS076
+  - first:
+      74: -3244370905632900824
+    second: Group004|motion_VIFS077
+  - first:
+      74: 4752097606867611779
+    second: Group004|motion_VIFS078.001
+  - first:
+      74: -8322631034878843695
+    second: Group004|motion_VIFS079
+  - first:
+      74: 7549749559681244680
+    second: Group004|Take 001_Group004
+  - first:
+      74: 6938445603975543898
+    second: Group004|Take 001_Group005
+  - first:
+      74: 7710342998178250097
+    second: Group004|Take 001_Group006
+  - first:
+      74: 6116185450495469552
+    second: Group004|Take 001_Group009.001
+  - first:
+      74: 2185137335921498158
+    second: Group004|Take 001_Group010
+  - first:
+      74: 6236486345235420846
+    second: Group004|Take 001_Group038
+  - first:
+      74: -8081624898098171436
+    second: Group004|Take 001_Group039
+  - first:
+      74: -5568075667785894943
+    second: Group004|Take 001_Group040
+  - first:
+      74: 719729540905139351
+    second: Group004|Take 001_Group041
+  - first:
+      74: -5625266379874881522
+    second: Group004|Take 001_Object002
+  - first:
+      74: 8428503155784023864
+    second: Group004|Take 001_Object004
+  - first:
+      74: -132865599810692915
+    second: Group004|Take 001_Object005
+  - first:
+      74: -945962116501439944
+    second: Group004|Take 001_Object062
+  - first:
+      74: -8635347067187009624
+    second: Group004|Take 001_Object064
+  - first:
+      74: -1938646818120832645
+    second: Group004|Take 001_Object066
+  - first:
+      74: 6328833448186844721
+    second: Group004|Take 001_Object068
+  - first:
+      74: 9219548114918995748
+    second: Group004|Take 001_Plane002
+  - first:
+      74: 4941964330317415546
+    second: Group004|Take 001_Plane003
+  - first:
+      74: -3138126443706294780
+    second: Group004|Take 001_Plane004
+  - first:
+      74: -3774721784394321543
+    second: Group004|Take 001_VIFS030
+  - first:
+      74: 634825481011295847
+    second: Group004|Take 001_VIFS035
+  - first:
+      74: 3794843332239667441
+    second: Object004|motion_Group001.001
+  - first:
+      74: -578722404929990956
+    second: Object004|motion_Group002.001
+  - first:
+      74: -5588550643696366136
+    second: Object004|motion_Group003.001
+  - first:
+      74: 6626622367057041433
+    second: Object004|motion_Group004.001
+  - first:
+      74: 3518195906106674419
+    second: Object004|motion_Group005.001
+  - first:
+      74: -7546188375509623324
+    second: Object004|motion_Group006.001
+  - first:
+      74: 6153469850051784928
+    second: Object004|motion_Group007.001
+  - first:
+      74: -4802264831884485957
+    second: Object004|motion_Group008.001
+  - first:
+      74: 1813347405241210843
+    second: Object004|motion_Group009.002
+  - first:
+      74: 403935201944491899
+    second: Object004|motion_VIFS052
+  - first:
+      74: -5113257810256603239
+    second: Object004|motion_VIFS060
+  - first:
+      74: -3922812665673638054
+    second: Object004|motion_VIFS075
+  - first:
+      74: 8894232379985911068
+    second: Object004|motion_VIFS076
+  - first:
+      74: 5077968235862527613
+    second: Object004|motion_VIFS077
+  - first:
+      74: -7464681693370291233
+    second: Object004|motion_VIFS078.001
+  - first:
+      74: -4288202397491757600
+    second: Object004|motion_VIFS079
+  - first:
+      74: -8736698687956149543
+    second: Object004|Take 001_Group004
+  - first:
+      74: -3427256981478443443
+    second: Object004|Take 001_Group005
+  - first:
+      74: 8993269769903896877
+    second: Object004|Take 001_Group006
+  - first:
+      74: 6957245887099220069
+    second: Object004|Take 001_Group009.001
+  - first:
+      74: 6747026827398286935
+    second: Object004|Take 001_Group010
+  - first:
+      74: 6550099750062248303
+    second: Object004|Take 001_Group038
+  - first:
+      74: -8847091093117897118
+    second: Object004|Take 001_Group039
+  - first:
+      74: 6262495299283357939
+    second: Object004|Take 001_Group040
+  - first:
+      74: -5404003738492267936
+    second: Object004|Take 001_Group041
+  - first:
+      74: 5396151999082629249
+    second: Object004|Take 001_Object002
+  - first:
+      74: 8714245664506396118
+    second: Object004|Take 001_Object004
+  - first:
+      74: -5965333031387662986
+    second: Object004|Take 001_Object005
+  - first:
+      74: -8242526537113538425
+    second: Object004|Take 001_Object062
+  - first:
+      74: -6679286647572113199
+    second: Object004|Take 001_Object064
+  - first:
+      74: -8758822132852279804
+    second: Object004|Take 001_Object066
+  - first:
+      74: 5565422792005395328
+    second: Object004|Take 001_Object068
+  - first:
+      74: 7688651769929176171
+    second: Object004|Take 001_Plane002
+  - first:
+      74: 3463337926127756449
+    second: Object004|Take 001_Plane003
+  - first:
+      74: -200542028652494260
+    second: Object004|Take 001_Plane004
+  - first:
+      74: -8606915527974897534
+    second: Object004|Take 001_VIFS030
+  - first:
+      74: 7886080867379779276
+    second: Object004|Take 001_VIFS035
+  - first:
+      74: -6606286898317055454
+    second: Plane003|motion_Group001.001
+  - first:
+      74: -6179656855774435456
+    second: Plane003|motion_Group002.001
+  - first:
+      74: 3514746351917661604
+    second: Plane003|motion_Group003.001
+  - first:
+      74: -2180566870625197455
+    second: Plane003|motion_Group004.001
+  - first:
+      74: 5054868706192088617
+    second: Plane003|motion_Group005.001
+  - first:
+      74: -3491067298620820547
+    second: Plane003|motion_Group006.001
+  - first:
+      74: 7609740287038546213
+    second: Plane003|motion_Group007.001
+  - first:
+      74: 2755678095544224831
+    second: Plane003|motion_Group008.001
+  - first:
+      74: 2207431394890517848
+    second: Plane003|motion_Group009.002
+  - first:
+      74: 6480001756270259708
+    second: Plane003|motion_VIFS052
+  - first:
+      74: 351384085252092369
+    second: Plane003|motion_VIFS060
+  - first:
+      74: -3484028692990017524
+    second: Plane003|motion_VIFS075
+  - first:
+      74: 2577322573139609858
+    second: Plane003|motion_VIFS076
+  - first:
+      74: 3886717589736442954
+    second: Plane003|motion_VIFS077
+  - first:
+      74: 4133338981748801552
+    second: Plane003|motion_VIFS078.001
+  - first:
+      74: -8828945478470421764
+    second: Plane003|motion_VIFS079
+  - first:
+      74: -4812945213415346597
+    second: Plane003|Take 001_Group004
+  - first:
+      74: -4377731303789071719
+    second: Plane003|Take 001_Group005
+  - first:
+      74: -7231534288580529559
+    second: Plane003|Take 001_Group006
+  - first:
+      74: 3789207634043560860
+    second: Plane003|Take 001_Group009.001
+  - first:
+      74: -5395768540646816847
+    second: Plane003|Take 001_Group010
+  - first:
+      74: 856498886680135090
+    second: Plane003|Take 001_Group038
+  - first:
+      74: -5216531976821278416
+    second: Plane003|Take 001_Group039
+  - first:
+      74: -5159779505271639501
+    second: Plane003|Take 001_Group040
+  - first:
+      74: 2076181239177972514
+    second: Plane003|Take 001_Group041
+  - first:
+      74: -5366696885202676152
+    second: Plane003|Take 001_Object002
+  - first:
+      74: 7037882252651842457
+    second: Plane003|Take 001_Object004
+  - first:
+      74: -9077929925054817230
+    second: Plane003|Take 001_Object005
+  - first:
+      74: 511319462219834997
+    second: Plane003|Take 001_Object062
+  - first:
+      74: -3280330450148671995
+    second: Plane003|Take 001_Object064
+  - first:
+      74: -5429300011078386887
+    second: Plane003|Take 001_Object066
+  - first:
+      74: -3998262584243839146
+    second: Plane003|Take 001_Object068
+  - first:
+      74: -2532260711688684410
+    second: Plane003|Take 001_Plane002
+  - first:
+      74: 4894332540626032176
+    second: Plane003|Take 001_Plane003
+  - first:
+      74: 3222324627878100994
+    second: Plane003|Take 001_Plane004
+  - first:
+      74: 6204004353507755060
+    second: Plane003|Take 001_VIFS030
+  - first:
+      74: -5504981258724796776
+    second: Plane003|Take 001_VIFS035
+  - first:
+      74: -3124769560955760930
+    second: Group001.001|motion_Group001.001
+  - first:
+      74: 1434893950989151101
+    second: Group001.001|motion_Group002.001
+  - first:
+      74: -5311750560190996437
+    second: Group001.001|motion_Group003.001
+  - first:
+      74: 7274605884461303220
+    second: Group001.001|motion_Group004.001
+  - first:
+      74: -8782995124463290489
+    second: Group001.001|motion_Group005.001
+  - first:
+      74: -8324452292329485947
+    second: Group001.001|motion_Group006.001
+  - first:
+      74: -5770161531332972649
+    second: Group001.001|motion_Group007.001
+  - first:
+      74: 6143589587856655747
+    second: Group001.001|motion_Group008.001
+  - first:
+      74: 8422653318519752898
+    second: Group001.001|motion_Group009.002
+  - first:
+      74: -7471328835622582863
+    second: Group001.001|motion_VIFS052
+  - first:
+      74: -355963181819973596
+    second: Group001.001|motion_VIFS060
+  - first:
+      74: -7303326373756212286
+    second: Group001.001|motion_VIFS075
+  - first:
+      74: 2379648254465101425
+    second: Group001.001|motion_VIFS076
+  - first:
+      74: -4262858287599805572
+    second: Group001.001|motion_VIFS077
+  - first:
+      74: 1890208637481834901
+    second: Group001.001|motion_VIFS078.001
+  - first:
+      74: 6034219531833942697
+    second: Group001.001|motion_VIFS079
+  - first:
+      74: 4335636958530514349
+    second: Group001.001|Take 001_Group004
+  - first:
+      74: -8467174789738909480
+    second: Group001.001|Take 001_Group005
+  - first:
+      74: 8297460003680851994
+    second: Group001.001|Take 001_Group006
+  - first:
+      74: -5892322808783927386
+    second: Group001.001|Take 001_Group009.001
+  - first:
+      74: 7997892285282252627
+    second: Group001.001|Take 001_Group010
+  - first:
+      74: 3531792362047280211
+    second: Group001.001|Take 001_Group038
+  - first:
+      74: 1511917020796732694
+    second: Group001.001|Take 001_Group039
+  - first:
+      74: 5661325445878165792
+    second: Group001.001|Take 001_Group040
+  - first:
+      74: 2969955943505467702
+    second: Group001.001|Take 001_Group041
+  - first:
+      74: 3780064121473528454
+    second: Group001.001|Take 001_Object002
+  - first:
+      74: 257054734764752392
+    second: Group001.001|Take 001_Object004
+  - first:
+      74: -3673555756424948827
+    second: Group001.001|Take 001_Object005
+  - first:
+      74: 495703443396254544
+    second: Group001.001|Take 001_Object062
+  - first:
+      74: -1625982821722475139
+    second: Group001.001|Take 001_Object064
+  - first:
+      74: -8428135676805404481
+    second: Group001.001|Take 001_Object066
+  - first:
+      74: 3159513902241376228
+    second: Group001.001|Take 001_Object068
+  - first:
+      74: 6134144144213330726
+    second: Group001.001|Take 001_Plane002
+  - first:
+      74: -2658735336861503465
+    second: Group001.001|Take 001_Plane003
+  - first:
+      74: 7260129594769367981
+    second: Group001.001|Take 001_Plane004
+  - first:
+      74: 632759635032847332
+    second: Group001.001|Take 001_VIFS030
+  - first:
+      74: -1575250442079399433
+    second: Group001.001|Take 001_VIFS035
+  - first:
+      74: -873550011262391902
+    second: VIFS052|motion_Group001.001
+  - first:
+      74: 825892702001646923
+    second: VIFS052|motion_Group002.001
+  - first:
+      74: 2681863185041236749
+    second: VIFS052|motion_Group003.001
+  - first:
+      74: 8809067765762950502
+    second: VIFS052|motion_Group004.001
+  - first:
+      74: -7956055559908755037
+    second: VIFS052|motion_Group005.001
+  - first:
+      74: -9012677652797173526
+    second: VIFS052|motion_Group006.001
+  - first:
+      74: -4522186612084764843
+    second: VIFS052|motion_Group007.001
+  - first:
+      74: -8742160803454236532
+    second: VIFS052|motion_Group008.001
+  - first:
+      74: 3487693296901070001
+    second: VIFS052|motion_Group009.002
+  - first:
+      74: -8208985417562404842
+    second: VIFS052|motion_VIFS052
+  - first:
+      74: -46245636760097743
+    second: VIFS052|motion_VIFS060
+  - first:
+      74: -2404535413303487215
+    second: VIFS052|motion_VIFS075
+  - first:
+      74: -3171696254527144689
+    second: VIFS052|motion_VIFS076
+  - first:
+      74: -4368562622165652561
+    second: VIFS052|motion_VIFS077
+  - first:
+      74: -4780417212646038876
+    second: VIFS052|motion_VIFS078.001
+  - first:
+      74: -2744477070743202620
+    second: VIFS052|motion_VIFS079
+  - first:
+      74: 7493176484278999278
+    second: VIFS052|Take 001_Group004
+  - first:
+      74: 2658533936576102910
+    second: VIFS052|Take 001_Group005
+  - first:
+      74: 1905047637072216186
+    second: VIFS052|Take 001_Group006
+  - first:
+      74: -8212835209962889881
+    second: VIFS052|Take 001_Group009.001
+  - first:
+      74: 3303020168853370162
+    second: VIFS052|Take 001_Group010
+  - first:
+      74: -6137704292817605378
+    second: VIFS052|Take 001_Group038
+  - first:
+      74: 8343234809304264857
+    second: VIFS052|Take 001_Group039
+  - first:
+      74: -2461514728972636790
+    second: VIFS052|Take 001_Group040
+  - first:
+      74: 5473229001138504950
+    second: VIFS052|Take 001_Group041
+  - first:
+      74: 1356298006021290720
+    second: VIFS052|Take 001_Object002
+  - first:
+      74: -4409380235107363676
+    second: VIFS052|Take 001_Object004
+  - first:
+      74: 1109054734297076348
+    second: VIFS052|Take 001_Object005
+  - first:
+      74: 7733847150067615648
+    second: VIFS052|Take 001_Object062
+  - first:
+      74: -8949586266483922611
+    second: VIFS052|Take 001_Object064
+  - first:
+      74: 9017735824962962165
+    second: VIFS052|Take 001_Object066
+  - first:
+      74: -2997881548548193611
+    second: VIFS052|Take 001_Object068
+  - first:
+      74: -8099120877678953030
+    second: VIFS052|Take 001_Plane002
+  - first:
+      74: -2524517432046488523
+    second: VIFS052|Take 001_Plane003
+  - first:
+      74: 3523656768125062690
+    second: VIFS052|Take 001_Plane004
+  - first:
+      74: 468915294815360938
+    second: VIFS052|Take 001_VIFS030
+  - first:
+      74: -154539257230879948
+    second: VIFS052|Take 001_VIFS035
+  - first:
+      74: 2496501633827548127
+    second: Group002.001|motion_Group001.001
+  - first:
+      74: 6405654212111110998
+    second: Group002.001|motion_Group002.001
+  - first:
+      74: -4919260269857452808
+    second: Group002.001|motion_Group003.001
+  - first:
+      74: 6232015612264203761
+    second: Group002.001|motion_Group004.001
+  - first:
+      74: 360216674847313978
+    second: Group002.001|motion_Group005.001
+  - first:
+      74: 3184118192112334874
+    second: Group002.001|motion_Group006.001
+  - first:
+      74: -7190003408658727898
+    second: Group002.001|motion_Group007.001
+  - first:
+      74: -1320112175660156914
+    second: Group002.001|motion_Group008.001
+  - first:
+      74: -8658249818281315511
+    second: Group002.001|motion_Group009.002
+  - first:
+      74: 5741924982347520435
+    second: Group002.001|motion_VIFS052
+  - first:
+      74: -2292365889149656010
+    second: Group002.001|motion_VIFS060
+  - first:
+      74: 5955753645890457809
+    second: Group002.001|motion_VIFS075
+  - first:
+      74: -8957776820232092360
+    second: Group002.001|motion_VIFS076
+  - first:
+      74: 323350712786734665
+    second: Group002.001|motion_VIFS077
+  - first:
+      74: -6331756891303255938
+    second: Group002.001|motion_VIFS078.001
+  - first:
+      74: 1193943420132524927
+    second: Group002.001|motion_VIFS079
+  - first:
+      74: -8387832591473495974
+    second: Group002.001|Take 001_Group004
+  - first:
+      74: -7265689922627792661
+    second: Group002.001|Take 001_Group005
+  - first:
+      74: 5647716637461237716
+    second: Group002.001|Take 001_Group006
+  - first:
+      74: -7684788257940588887
+    second: Group002.001|Take 001_Group009.001
+  - first:
+      74: 1557323460608145568
+    second: Group002.001|Take 001_Group010
+  - first:
+      74: -1726341742754510214
+    second: Group002.001|Take 001_Group038
+  - first:
+      74: 4313791485469083148
+    second: Group002.001|Take 001_Group039
+  - first:
+      74: 6203537594890964138
+    second: Group002.001|Take 001_Group040
+  - first:
+      74: -5690824802962799588
+    second: Group002.001|Take 001_Group041
+  - first:
+      74: -2290433178383977821
+    second: Group002.001|Take 001_Object002
+  - first:
+      74: 8674667053032896711
+    second: Group002.001|Take 001_Object004
+  - first:
+      74: 2324765294313650675
+    second: Group002.001|Take 001_Object005
+  - first:
+      74: 8336975645609049789
+    second: Group002.001|Take 001_Object062
+  - first:
+      74: -8096270160371400381
+    second: Group002.001|Take 001_Object064
+  - first:
+      74: -4162797311261199300
+    second: Group002.001|Take 001_Object066
+  - first:
+      74: 4966665982461869596
+    second: Group002.001|Take 001_Object068
+  - first:
+      74: 8188800748569494282
+    second: Group002.001|Take 001_Plane002
+  - first:
+      74: -8850952055670439388
+    second: Group002.001|Take 001_Plane003
+  - first:
+      74: -2315196130539241492
+    second: Group002.001|Take 001_Plane004
+  - first:
+      74: -6774926254073021899
+    second: Group002.001|Take 001_VIFS030
+  - first:
+      74: -6546675717926121774
+    second: Group002.001|Take 001_VIFS035
+  - first:
+      74: -194871743112314688
+    second: Group003.001|motion_Group001.001
+  - first:
+      74: -3820363256451796152
+    second: Group003.001|motion_Group002.001
+  - first:
+      74: 7269594743393409999
+    second: Group003.001|motion_Group003.001
+  - first:
+      74: 7731445385661177064
+    second: Group003.001|motion_Group004.001
+  - first:
+      74: 3987145242096405559
+    second: Group003.001|motion_Group005.001
+  - first:
+      74: -2792168466107703063
+    second: Group003.001|motion_Group006.001
+  - first:
+      74: -9069707602422387918
+    second: Group003.001|motion_Group007.001
+  - first:
+      74: -5008364714997629924
+    second: Group003.001|motion_Group008.001
+  - first:
+      74: 1238377242425551748
+    second: Group003.001|motion_Group009.002
+  - first:
+      74: 3857034414856117969
+    second: Group003.001|motion_VIFS052
+  - first:
+      74: 705706892717608009
+    second: Group003.001|motion_VIFS060
+  - first:
+      74: 6065760600211976829
+    second: Group003.001|motion_VIFS075
+  - first:
+      74: 4615997917690649623
+    second: Group003.001|motion_VIFS076
+  - first:
+      74: -6678521269789365986
+    second: Group003.001|motion_VIFS077
+  - first:
+      74: -3558283392201071795
+    second: Group003.001|motion_VIFS078.001
+  - first:
+      74: 8851577519458733672
+    second: Group003.001|motion_VIFS079
+  - first:
+      74: 1394776406301997775
+    second: Group003.001|Take 001_Group004
+  - first:
+      74: -1271868151436278107
+    second: Group003.001|Take 001_Group005
+  - first:
+      74: -2704205433984180680
+    second: Group003.001|Take 001_Group006
+  - first:
+      74: 2238734875924299563
+    second: Group003.001|Take 001_Group009.001
+  - first:
+      74: 4611383397234648127
+    second: Group003.001|Take 001_Group010
+  - first:
+      74: 8563724414476161540
+    second: Group003.001|Take 001_Group038
+  - first:
+      74: -2696556508017374552
+    second: Group003.001|Take 001_Group039
+  - first:
+      74: -1161727797097494085
+    second: Group003.001|Take 001_Group040
+  - first:
+      74: -7447734533712924900
+    second: Group003.001|Take 001_Group041
+  - first:
+      74: 7986176937458287226
+    second: Group003.001|Take 001_Object002
+  - first:
+      74: -6014449169639155298
+    second: Group003.001|Take 001_Object004
+  - first:
+      74: -7434980745095971149
+    second: Group003.001|Take 001_Object005
+  - first:
+      74: 3382218121266464038
+    second: Group003.001|Take 001_Object062
+  - first:
+      74: 8907080721080819535
+    second: Group003.001|Take 001_Object064
+  - first:
+      74: -8424177019445977876
+    second: Group003.001|Take 001_Object066
+  - first:
+      74: 224365351645515866
+    second: Group003.001|Take 001_Object068
+  - first:
+      74: -7781900032380805700
+    second: Group003.001|Take 001_Plane002
+  - first:
+      74: 4393207993143442815
+    second: Group003.001|Take 001_Plane003
+  - first:
+      74: -4782300764064185672
+    second: Group003.001|Take 001_Plane004
+  - first:
+      74: -3719860525516488211
+    second: Group003.001|Take 001_VIFS030
+  - first:
+      74: 4603137602575804097
+    second: Group003.001|Take 001_VIFS035
+  - first:
+      74: 4104867961577591420
+    second: VIFS060|motion_Group001.001
+  - first:
+      74: 1768701562073358990
+    second: VIFS060|motion_Group002.001
+  - first:
+      74: 6871732682343319405
+    second: VIFS060|motion_Group003.001
+  - first:
+      74: -1434519844324787164
+    second: VIFS060|motion_Group004.001
+  - first:
+      74: 4198066375450098632
+    second: VIFS060|motion_Group005.001
+  - first:
+      74: 6514775097954747113
+    second: VIFS060|motion_Group006.001
+  - first:
+      74: -5238414390694705726
+    second: VIFS060|motion_Group007.001
+  - first:
+      74: 978032960627573175
+    second: VIFS060|motion_Group008.001
+  - first:
+      74: -9132872694609796198
+    second: VIFS060|motion_Group009.002
+  - first:
+      74: -8932659188743903928
+    second: VIFS060|motion_VIFS052
+  - first:
+      74: 7129288386850244392
+    second: VIFS060|motion_VIFS060
+  - first:
+      74: -5173208677260745651
+    second: VIFS060|motion_VIFS075
+  - first:
+      74: -751928403197885930
+    second: VIFS060|motion_VIFS076
+  - first:
+      74: -4319484498596775643
+    second: VIFS060|motion_VIFS077
+  - first:
+      74: -8643156020407141769
+    second: VIFS060|motion_VIFS078.001
+  - first:
+      74: -8143572464765954692
+    second: VIFS060|motion_VIFS079
+  - first:
+      74: -6282846128080270403
+    second: VIFS060|Take 001_Group004
+  - first:
+      74: -4209325803498416617
+    second: VIFS060|Take 001_Group005
+  - first:
+      74: -7646345972473773228
+    second: VIFS060|Take 001_Group006
+  - first:
+      74: 6275402953787074970
+    second: VIFS060|Take 001_Group009.001
+  - first:
+      74: -4599266486927450851
+    second: VIFS060|Take 001_Group010
+  - first:
+      74: 7738261095548213730
+    second: VIFS060|Take 001_Group038
+  - first:
+      74: -3201105832594944742
+    second: VIFS060|Take 001_Group039
+  - first:
+      74: -6263816111122895402
+    second: VIFS060|Take 001_Group040
+  - first:
+      74: -1142998755513797964
+    second: VIFS060|Take 001_Group041
+  - first:
+      74: 6411427500765151487
+    second: VIFS060|Take 001_Object002
+  - first:
+      74: 2216665676935490544
+    second: VIFS060|Take 001_Object004
+  - first:
+      74: -8647699640783466363
+    second: VIFS060|Take 001_Object005
+  - first:
+      74: 84868688245884670
+    second: VIFS060|Take 001_Object062
+  - first:
+      74: 2268117143004141252
+    second: VIFS060|Take 001_Object064
+  - first:
+      74: 6220941077785241278
+    second: VIFS060|Take 001_Object066
+  - first:
+      74: -2822867377921836698
+    second: VIFS060|Take 001_Object068
+  - first:
+      74: -2970850282568165640
+    second: VIFS060|Take 001_Plane002
+  - first:
+      74: 4755992014723396773
+    second: VIFS060|Take 001_Plane003
+  - first:
+      74: -2342231949249411118
+    second: VIFS060|Take 001_Plane004
+  - first:
+      74: 481004780156137761
+    second: VIFS060|Take 001_VIFS030
+  - first:
+      74: -2844528005707948275
+    second: VIFS060|Take 001_VIFS035
+  - first:
+      74: 4383620898722929063
+    second: Group004.001|motion_Group001.001
+  - first:
+      74: -1006034548052375598
+    second: Group004.001|motion_Group002.001
+  - first:
+      74: -2650190824229809000
+    second: Group004.001|motion_Group003.001
+  - first:
+      74: 8247357812028731528
+    second: Group004.001|motion_Group004.001
+  - first:
+      74: 5435616527979055646
+    second: Group004.001|motion_Group005.001
+  - first:
+      74: 3239812209360742921
+    second: Group004.001|motion_Group006.001
+  - first:
+      74: -5332771011040248889
+    second: Group004.001|motion_Group007.001
+  - first:
+      74: 7247507744325505418
+    second: Group004.001|motion_Group008.001
+  - first:
+      74: 1441871337365092174
+    second: Group004.001|motion_Group009.002
+  - first:
+      74: 9220371680623761299
+    second: Group004.001|motion_VIFS052
+  - first:
+      74: -4894808633119432679
+    second: Group004.001|motion_VIFS060
+  - first:
+      74: -3684886850508119925
+    second: Group004.001|motion_VIFS075
+  - first:
+      74: -2372602546947909954
+    second: Group004.001|motion_VIFS076
+  - first:
+      74: 6340133640339504468
+    second: Group004.001|motion_VIFS077
+  - first:
+      74: -1310318484938461768
+    second: Group004.001|motion_VIFS078.001
+  - first:
+      74: -8804557603281842647
+    second: Group004.001|motion_VIFS079
+  - first:
+      74: -7257443059701558869
+    second: Group004.001|Take 001_Group004
+  - first:
+      74: 4251612814119963561
+    second: Group004.001|Take 001_Group005
+  - first:
+      74: 2819829985959530475
+    second: Group004.001|Take 001_Group006
+  - first:
+      74: -6385327072862966263
+    second: Group004.001|Take 001_Group009.001
+  - first:
+      74: 2128289051842279058
+    second: Group004.001|Take 001_Group010
+  - first:
+      74: 1438755148228452694
+    second: Group004.001|Take 001_Group038
+  - first:
+      74: -1773843034811011420
+    second: Group004.001|Take 001_Group039
+  - first:
+      74: -4074340428049095204
+    second: Group004.001|Take 001_Group040
+  - first:
+      74: -3373726164765437909
+    second: Group004.001|Take 001_Group041
+  - first:
+      74: 2970055775781105806
+    second: Group004.001|Take 001_Object002
+  - first:
+      74: 1370685108051864418
+    second: Group004.001|Take 001_Object004
+  - first:
+      74: 271952113045665468
+    second: Group004.001|Take 001_Object005
+  - first:
+      74: -5501399621822163005
+    second: Group004.001|Take 001_Object062
+  - first:
+      74: 7035353608587913389
+    second: Group004.001|Take 001_Object064
+  - first:
+      74: 5832256772104810392
+    second: Group004.001|Take 001_Object066
+  - first:
+      74: -1585234755212239488
+    second: Group004.001|Take 001_Object068
+  - first:
+      74: -482866137393853137
+    second: Group004.001|Take 001_Plane002
+  - first:
+      74: 4575527421850680999
+    second: Group004.001|Take 001_Plane003
+  - first:
+      74: 6167304193396639586
+    second: Group004.001|Take 001_Plane004
+  - first:
+      74: -9156726712142616997
+    second: Group004.001|Take 001_VIFS030
+  - first:
+      74: -2086423962718311821
+    second: Group004.001|Take 001_VIFS035
+  - first:
+      74: -2382451650803827611
+    second: Group005.001|motion_Group001.001
+  - first:
+      74: -221133315386068256
+    second: Group005.001|motion_Group002.001
+  - first:
+      74: 431501063612021750
+    second: Group005.001|motion_Group003.001
+  - first:
+      74: 9153291907509903529
+    second: Group005.001|motion_Group004.001
+  - first:
+      74: 4319948927263251269
+    second: Group005.001|motion_Group005.001
+  - first:
+      74: -3619166695050722570
+    second: Group005.001|motion_Group006.001
+  - first:
+      74: 5875184891471010989
+    second: Group005.001|motion_Group007.001
+  - first:
+      74: -6606844856309879525
+    second: Group005.001|motion_Group008.001
+  - first:
+      74: -5558481385683752539
+    second: Group005.001|motion_Group009.002
+  - first:
+      74: 116284520058843884
+    second: Group005.001|motion_VIFS052
+  - first:
+      74: -2288224997833531371
+    second: Group005.001|motion_VIFS060
+  - first:
+      74: 3449124076751703917
+    second: Group005.001|motion_VIFS075
+  - first:
+      74: -3866729760823049818
+    second: Group005.001|motion_VIFS076
+  - first:
+      74: -5993245293741918170
+    second: Group005.001|motion_VIFS077
+  - first:
+      74: 3512859404128247135
+    second: Group005.001|motion_VIFS078.001
+  - first:
+      74: -9186004860810238716
+    second: Group005.001|motion_VIFS079
+  - first:
+      74: -4336003219673749697
+    second: Group005.001|Take 001_Group004
+  - first:
+      74: 7860086995612267886
+    second: Group005.001|Take 001_Group005
+  - first:
+      74: -1569126730395920520
+    second: Group005.001|Take 001_Group006
+  - first:
+      74: -1158556360525464387
+    second: Group005.001|Take 001_Group009.001
+  - first:
+      74: -4920100708804380890
+    second: Group005.001|Take 001_Group010
+  - first:
+      74: -5634371161708462517
+    second: Group005.001|Take 001_Group038
+  - first:
+      74: 7213989740968118363
+    second: Group005.001|Take 001_Group039
+  - first:
+      74: 5786026603275014765
+    second: Group005.001|Take 001_Group040
+  - first:
+      74: -187996619527158137
+    second: Group005.001|Take 001_Group041
+  - first:
+      74: 8333859003829545230
+    second: Group005.001|Take 001_Object002
+  - first:
+      74: -4245347028055973689
+    second: Group005.001|Take 001_Object004
+  - first:
+      74: -7572239094695894461
+    second: Group005.001|Take 001_Object005
+  - first:
+      74: -8808799872765353597
+    second: Group005.001|Take 001_Object062
+  - first:
+      74: -3546715334879352283
+    second: Group005.001|Take 001_Object064
+  - first:
+      74: 3671536536015226529
+    second: Group005.001|Take 001_Object066
+  - first:
+      74: 8978410826507253294
+    second: Group005.001|Take 001_Object068
+  - first:
+      74: 4631420050986972906
+    second: Group005.001|Take 001_Plane002
+  - first:
+      74: 7308571356518483877
+    second: Group005.001|Take 001_Plane003
+  - first:
+      74: 6466406756857073545
+    second: Group005.001|Take 001_Plane004
+  - first:
+      74: -7767171163130052864
+    second: Group005.001|Take 001_VIFS030
+  - first:
+      74: 5772100977325217500
+    second: Group005.001|Take 001_VIFS035
+  - first:
+      74: -373793560424751762
+    second: VIFS079|motion_Group001.001
+  - first:
+      74: 2130147524876895636
+    second: VIFS079|motion_Group002.001
+  - first:
+      74: 8167627850031697612
+    second: VIFS079|motion_Group003.001
+  - first:
+      74: 7277893802710116514
+    second: VIFS079|motion_Group004.001
+  - first:
+      74: -990616990954330546
+    second: VIFS079|motion_Group005.001
+  - first:
+      74: 7135421873498046161
+    second: VIFS079|motion_Group006.001
+  - first:
+      74: 4956462197488601484
+    second: VIFS079|motion_Group007.001
+  - first:
+      74: 7988476116348642535
+    second: VIFS079|motion_Group008.001
+  - first:
+      74: 7312929924334738336
+    second: VIFS079|motion_Group009.002
+  - first:
+      74: -1526885862020589873
+    second: VIFS079|motion_VIFS052
+  - first:
+      74: 4038594814476154258
+    second: VIFS079|motion_VIFS060
+  - first:
+      74: 901843413798506904
+    second: VIFS079|motion_VIFS075
+  - first:
+      74: -7900814594163631288
+    second: VIFS079|motion_VIFS076
+  - first:
+      74: -9156179354379780716
+    second: VIFS079|motion_VIFS077
+  - first:
+      74: 731659895787271531
+    second: VIFS079|motion_VIFS078.001
+  - first:
+      74: 7275821322678844881
+    second: VIFS079|motion_VIFS079
+  - first:
+      74: -7618605479689034446
+    second: VIFS079|Take 001_Group004
+  - first:
+      74: -4046629473874875157
+    second: VIFS079|Take 001_Group005
+  - first:
+      74: -1203294366086230445
+    second: VIFS079|Take 001_Group006
+  - first:
+      74: -3620340790939680687
+    second: VIFS079|Take 001_Group009.001
+  - first:
+      74: -8845282176297712054
+    second: VIFS079|Take 001_Group010
+  - first:
+      74: 2782900924775529629
+    second: VIFS079|Take 001_Group038
+  - first:
+      74: -85878986194448287
+    second: VIFS079|Take 001_Group039
+  - first:
+      74: -7099819740491677911
+    second: VIFS079|Take 001_Group040
+  - first:
+      74: 1322970668282784218
+    second: VIFS079|Take 001_Group041
+  - first:
+      74: 5736457120162893309
+    second: VIFS079|Take 001_Object002
+  - first:
+      74: 3119626313990119580
+    second: VIFS079|Take 001_Object004
+  - first:
+      74: 2833420058953470264
+    second: VIFS079|Take 001_Object005
+  - first:
+      74: 6337241915585165771
+    second: VIFS079|Take 001_Object062
+  - first:
+      74: 7141449934365326581
+    second: VIFS079|Take 001_Object064
+  - first:
+      74: -6697993566561004428
+    second: VIFS079|Take 001_Object066
+  - first:
+      74: 6267191597185235726
+    second: VIFS079|Take 001_Object068
+  - first:
+      74: 4574728769599689605
+    second: VIFS079|Take 001_Plane002
+  - first:
+      74: 904386945184164359
+    second: VIFS079|Take 001_Plane003
+  - first:
+      74: 6871530565970652989
+    second: VIFS079|Take 001_Plane004
+  - first:
+      74: 9113874497268736875
+    second: VIFS079|Take 001_VIFS030
+  - first:
+      74: -5535250544581413122
+    second: VIFS079|Take 001_VIFS035
+  - first:
+      74: -4466559046219935370
+    second: Group006.001|motion_Group001.001
+  - first:
+      74: -5371536978980111133
+    second: Group006.001|motion_Group002.001
+  - first:
+      74: -6125535963479610316
+    second: Group006.001|motion_Group003.001
+  - first:
+      74: -4462456376514506219
+    second: Group006.001|motion_Group004.001
+  - first:
+      74: 6586840302885367212
+    second: Group006.001|motion_Group005.001
+  - first:
+      74: -3557657834339954899
+    second: Group006.001|motion_Group006.001
+  - first:
+      74: -4764106937247962069
+    second: Group006.001|motion_Group007.001
+  - first:
+      74: -6855254681494007280
+    second: Group006.001|motion_Group008.001
+  - first:
+      74: 1251679807486475304
+    second: Group006.001|motion_Group009.002
+  - first:
+      74: -6722948201256161832
+    second: Group006.001|motion_VIFS052
+  - first:
+      74: 1258818436101726323
+    second: Group006.001|motion_VIFS060
+  - first:
+      74: -1266788509301629716
+    second: Group006.001|motion_VIFS075
+  - first:
+      74: -7251376306715982189
+    second: Group006.001|motion_VIFS076
+  - first:
+      74: -5796849268486716066
+    second: Group006.001|motion_VIFS077
+  - first:
+      74: -9101098869177311995
+    second: Group006.001|motion_VIFS078.001
+  - first:
+      74: 5725057810490204964
+    second: Group006.001|motion_VIFS079
+  - first:
+      74: 7903487472503361465
+    second: Group006.001|Take 001_Group004
+  - first:
+      74: 4280842902127451050
+    second: Group006.001|Take 001_Group005
+  - first:
+      74: 972896951648626249
+    second: Group006.001|Take 001_Group006
+  - first:
+      74: 3985191401603439824
+    second: Group006.001|Take 001_Group009.001
+  - first:
+      74: 7243244754321232432
+    second: Group006.001|Take 001_Group010
+  - first:
+      74: -7656672116519421401
+    second: Group006.001|Take 001_Group038
+  - first:
+      74: 6108715706390468199
+    second: Group006.001|Take 001_Group039
+  - first:
+      74: 7965219818853260568
+    second: Group006.001|Take 001_Group040
+  - first:
+      74: -3464635084142315305
+    second: Group006.001|Take 001_Group041
+  - first:
+      74: -4997590617629561075
+    second: Group006.001|Take 001_Object002
+  - first:
+      74: -6831251255277764587
+    second: Group006.001|Take 001_Object004
+  - first:
+      74: -7960103279369819001
+    second: Group006.001|Take 001_Object005
+  - first:
+      74: 5443767963543464897
+    second: Group006.001|Take 001_Object062
+  - first:
+      74: -5027967001022193337
+    second: Group006.001|Take 001_Object064
+  - first:
+      74: 8475778606247736375
+    second: Group006.001|Take 001_Object066
+  - first:
+      74: 1987384473079108740
+    second: Group006.001|Take 001_Object068
+  - first:
+      74: -3041678418669996865
+    second: Group006.001|Take 001_Plane002
+  - first:
+      74: 4405331793893652992
+    second: Group006.001|Take 001_Plane003
+  - first:
+      74: 4963282951291961881
+    second: Group006.001|Take 001_Plane004
+  - first:
+      74: -1284209821495123066
+    second: Group006.001|Take 001_VIFS030
+  - first:
+      74: 735481620486526212
+    second: Group006.001|Take 001_VIFS035
+  - first:
+      74: -7439466874392916478
+    second: VIFS077|motion_Group001.001
+  - first:
+      74: 3560135155577577353
+    second: VIFS077|motion_Group002.001
+  - first:
+      74: 5419562862511211278
+    second: VIFS077|motion_Group003.001
+  - first:
+      74: -3075039889928019345
+    second: VIFS077|motion_Group004.001
+  - first:
+      74: 4046408990442009998
+    second: VIFS077|motion_Group005.001
+  - first:
+      74: -3246681058342605026
+    second: VIFS077|motion_Group006.001
+  - first:
+      74: -849218260148248119
+    second: VIFS077|motion_Group007.001
+  - first:
+      74: -52380797953631550
+    second: VIFS077|motion_Group008.001
+  - first:
+      74: -1952440142544594
+    second: VIFS077|motion_Group009.002
+  - first:
+      74: -6859796493701481993
+    second: VIFS077|motion_VIFS052
+  - first:
+      74: -3604052930672872507
+    second: VIFS077|motion_VIFS060
+  - first:
+      74: 3624211172445233229
+    second: VIFS077|motion_VIFS075
+  - first:
+      74: -5050341683734383946
+    second: VIFS077|motion_VIFS076
+  - first:
+      74: 8967123863139150670
+    second: VIFS077|motion_VIFS077
+  - first:
+      74: 4150621270705936412
+    second: VIFS077|motion_VIFS078.001
+  - first:
+      74: 3033863867805065444
+    second: VIFS077|motion_VIFS079
+  - first:
+      74: -6348570160411524877
+    second: VIFS077|Take 001_Group004
+  - first:
+      74: -3557993766228881791
+    second: VIFS077|Take 001_Group005
+  - first:
+      74: -2501083668870624983
+    second: VIFS077|Take 001_Group006
+  - first:
+      74: -5511103990066387016
+    second: VIFS077|Take 001_Group009.001
+  - first:
+      74: -6665009627941150832
+    second: VIFS077|Take 001_Group010
+  - first:
+      74: 480703365371799198
+    second: VIFS077|Take 001_Group038
+  - first:
+      74: -7516649118480924796
+    second: VIFS077|Take 001_Group039
+  - first:
+      74: -2261158833104224814
+    second: VIFS077|Take 001_Group040
+  - first:
+      74: -524153166879894531
+    second: VIFS077|Take 001_Group041
+  - first:
+      74: 7267807366397744437
+    second: VIFS077|Take 001_Object002
+  - first:
+      74: -9008193061490257333
+    second: VIFS077|Take 001_Object004
+  - first:
+      74: -5127852141980506635
+    second: VIFS077|Take 001_Object005
+  - first:
+      74: -7797183220929039975
+    second: VIFS077|Take 001_Object062
+  - first:
+      74: -793499237042319998
+    second: VIFS077|Take 001_Object064
+  - first:
+      74: -7332314341128187924
+    second: VIFS077|Take 001_Object066
+  - first:
+      74: 8058846262057484605
+    second: VIFS077|Take 001_Object068
+  - first:
+      74: -8266474215922862530
+    second: VIFS077|Take 001_Plane002
+  - first:
+      74: 5605094988324773509
+    second: VIFS077|Take 001_Plane003
+  - first:
+      74: -1260241260654184671
+    second: VIFS077|Take 001_Plane004
+  - first:
+      74: 8672382825193069827
+    second: VIFS077|Take 001_VIFS030
+  - first:
+      74: 8116925418514072146
+    second: VIFS077|Take 001_VIFS035
+  - first:
+      74: 8349603185434888549
+    second: Group007.001|motion_Group001.001
+  - first:
+      74: 1441239901949776138
+    second: Group007.001|motion_Group002.001
+  - first:
+      74: 7879044635109385570
+    second: Group007.001|motion_Group003.001
+  - first:
+      74: 4529192676047886172
+    second: Group007.001|motion_Group004.001
+  - first:
+      74: -2233902632306225852
+    second: Group007.001|motion_Group005.001
+  - first:
+      74: 7220396373923191699
+    second: Group007.001|motion_Group006.001
+  - first:
+      74: -4850659461505927372
+    second: Group007.001|motion_Group007.001
+  - first:
+      74: -371542076941097280
+    second: Group007.001|motion_Group008.001
+  - first:
+      74: 5991052345765692604
+    second: Group007.001|motion_Group009.002
+  - first:
+      74: 6209074851859212211
+    second: Group007.001|motion_VIFS052
+  - first:
+      74: -1752814420556529042
+    second: Group007.001|motion_VIFS060
+  - first:
+      74: 75738535971069713
+    second: Group007.001|motion_VIFS075
+  - first:
+      74: -4829440821269430403
+    second: Group007.001|motion_VIFS076
+  - first:
+      74: 5787381494761715266
+    second: Group007.001|motion_VIFS077
+  - first:
+      74: -1980919823643067959
+    second: Group007.001|motion_VIFS078.001
+  - first:
+      74: 5846493865001826245
+    second: Group007.001|motion_VIFS079
+  - first:
+      74: 917271585038602997
+    second: Group007.001|Take 001_Group004
+  - first:
+      74: 6301430213174951122
+    second: Group007.001|Take 001_Group005
+  - first:
+      74: -4214131207817400402
+    second: Group007.001|Take 001_Group006
+  - first:
+      74: 4965717184596333220
+    second: Group007.001|Take 001_Group009.001
+  - first:
+      74: -113503101479750751
+    second: Group007.001|Take 001_Group010
+  - first:
+      74: -8304864768492347942
+    second: Group007.001|Take 001_Group038
+  - first:
+      74: 6177909116496435678
+    second: Group007.001|Take 001_Group039
+  - first:
+      74: 7972654025519668579
+    second: Group007.001|Take 001_Group040
+  - first:
+      74: -1470323119619195273
+    second: Group007.001|Take 001_Group041
+  - first:
+      74: -1018926666243298788
+    second: Group007.001|Take 001_Object002
+  - first:
+      74: -6282238701104753648
+    second: Group007.001|Take 001_Object004
+  - first:
+      74: -3693949844146688933
+    second: Group007.001|Take 001_Object005
+  - first:
+      74: 8476217706468111741
+    second: Group007.001|Take 001_Object062
+  - first:
+      74: -4140329400404413716
+    second: Group007.001|Take 001_Object064
+  - first:
+      74: 913354353075252332
+    second: Group007.001|Take 001_Object066
+  - first:
+      74: 5713620336736013828
+    second: Group007.001|Take 001_Object068
+  - first:
+      74: -2188610160655623494
+    second: Group007.001|Take 001_Plane002
+  - first:
+      74: 8630834439580443531
+    second: Group007.001|Take 001_Plane003
+  - first:
+      74: 8431248300609374223
+    second: Group007.001|Take 001_Plane004
+  - first:
+      74: 7421179648359917121
+    second: Group007.001|Take 001_VIFS030
+  - first:
+      74: 5818258585550001791
+    second: Group007.001|Take 001_VIFS035
+  - first:
+      74: -4266556653236338447
+    second: VIFS078.001|motion_Group001.001
+  - first:
+      74: -6070192216057030007
+    second: VIFS078.001|motion_Group002.001
+  - first:
+      74: -905886175706266856
+    second: VIFS078.001|motion_Group003.001
+  - first:
+      74: -9152608291496020420
+    second: VIFS078.001|motion_Group004.001
+  - first:
+      74: -7307275614523273561
+    second: VIFS078.001|motion_Group005.001
+  - first:
+      74: -5222307933639163490
+    second: VIFS078.001|motion_Group006.001
+  - first:
+      74: -2741907146267925621
+    second: VIFS078.001|motion_Group007.001
+  - first:
+      74: -7656158324545202394
+    second: VIFS078.001|motion_Group008.001
+  - first:
+      74: 2481677592003458626
+    second: VIFS078.001|motion_Group009.002
+  - first:
+      74: -6739567766459402220
+    second: VIFS078.001|motion_VIFS052
+  - first:
+      74: 4618883539982715731
+    second: VIFS078.001|motion_VIFS060
+  - first:
+      74: -2289926452315771196
+    second: VIFS078.001|motion_VIFS075
+  - first:
+      74: -488734396305184993
+    second: VIFS078.001|motion_VIFS076
+  - first:
+      74: -5394214508701540088
+    second: VIFS078.001|motion_VIFS077
+  - first:
+      74: 6424291904411721262
+    second: VIFS078.001|motion_VIFS078.001
+  - first:
+      74: -6854141677914041575
+    second: VIFS078.001|motion_VIFS079
+  - first:
+      74: -2354915951536700135
+    second: VIFS078.001|Take 001_Group004
+  - first:
+      74: 2430565901997371891
+    second: VIFS078.001|Take 001_Group005
+  - first:
+      74: 8724275492768629531
+    second: VIFS078.001|Take 001_Group006
+  - first:
+      74: -7261901138565886516
+    second: VIFS078.001|Take 001_Group009.001
+  - first:
+      74: 2183912785815198234
+    second: VIFS078.001|Take 001_Group010
+  - first:
+      74: -3093792303060322272
+    second: VIFS078.001|Take 001_Group038
+  - first:
+      74: -2520340658597392926
+    second: VIFS078.001|Take 001_Group039
+  - first:
+      74: -2066694673626785909
+    second: VIFS078.001|Take 001_Group040
+  - first:
+      74: 8163418605060988332
+    second: VIFS078.001|Take 001_Group041
+  - first:
+      74: 3174446015429520919
+    second: VIFS078.001|Take 001_Object002
+  - first:
+      74: -258669757773238314
+    second: VIFS078.001|Take 001_Object004
+  - first:
+      74: 1702094991701549426
+    second: VIFS078.001|Take 001_Object005
+  - first:
+      74: -112950165816842581
+    second: VIFS078.001|Take 001_Object062
+  - first:
+      74: -8541458269014844246
+    second: VIFS078.001|Take 001_Object064
+  - first:
+      74: 3994745716992759606
+    second: VIFS078.001|Take 001_Object066
+  - first:
+      74: 4474702624826736054
+    second: VIFS078.001|Take 001_Object068
+  - first:
+      74: -3840856478887210177
+    second: VIFS078.001|Take 001_Plane002
+  - first:
+      74: 1609559409680505063
+    second: VIFS078.001|Take 001_Plane003
+  - first:
+      74: 4398397953373607109
+    second: VIFS078.001|Take 001_Plane004
+  - first:
+      74: -251975238572579190
+    second: VIFS078.001|Take 001_VIFS030
+  - first:
+      74: -2803448397865408873
+    second: VIFS078.001|Take 001_VIFS035
+  - first:
+      74: 4099383912569365448
+    second: Group008.001|motion_Group001.001
+  - first:
+      74: 991130282229276898
+    second: Group008.001|motion_Group002.001
+  - first:
+      74: 5300821806246793263
+    second: Group008.001|motion_Group003.001
+  - first:
+      74: -8141966406888941192
+    second: Group008.001|motion_Group004.001
+  - first:
+      74: -5975547314276507561
+    second: Group008.001|motion_Group005.001
+  - first:
+      74: 5257114743060769496
+    second: Group008.001|motion_Group006.001
+  - first:
+      74: -7116541194047526098
+    second: Group008.001|motion_Group007.001
+  - first:
+      74: 7336852493874944207
+    second: Group008.001|motion_Group008.001
+  - first:
+      74: -3240013903229815201
+    second: Group008.001|motion_Group009.002
+  - first:
+      74: 4169419714305151879
+    second: Group008.001|motion_VIFS052
+  - first:
+      74: 7440142287973468429
+    second: Group008.001|motion_VIFS060
+  - first:
+      74: 3636532830580225540
+    second: Group008.001|motion_VIFS075
+  - first:
+      74: 2325775805278215169
+    second: Group008.001|motion_VIFS076
+  - first:
+      74: 5881052987106744753
+    second: Group008.001|motion_VIFS077
+  - first:
+      74: -1003074417918188061
+    second: Group008.001|motion_VIFS078.001
+  - first:
+      74: -2201521649118559780
+    second: Group008.001|motion_VIFS079
+  - first:
+      74: 388569391351346727
+    second: Group008.001|Take 001_Group004
+  - first:
+      74: -2474052509043398734
+    second: Group008.001|Take 001_Group005
+  - first:
+      74: 4389718783905663626
+    second: Group008.001|Take 001_Group006
+  - first:
+      74: 3017829191228190923
+    second: Group008.001|Take 001_Group009.001
+  - first:
+      74: -5703412736194586864
+    second: Group008.001|Take 001_Group010
+  - first:
+      74: -3657252384786111643
+    second: Group008.001|Take 001_Group038
+  - first:
+      74: 7528769224627552946
+    second: Group008.001|Take 001_Group039
+  - first:
+      74: 862451714962402119
+    second: Group008.001|Take 001_Group040
+  - first:
+      74: 3096103666874786149
+    second: Group008.001|Take 001_Group041
+  - first:
+      74: -9150437348618733759
+    second: Group008.001|Take 001_Object002
+  - first:
+      74: 7597917028308356903
+    second: Group008.001|Take 001_Object004
+  - first:
+      74: 5530392306344463602
+    second: Group008.001|Take 001_Object005
+  - first:
+      74: -4017939172099546121
+    second: Group008.001|Take 001_Object062
+  - first:
+      74: 5423760401334396382
+    second: Group008.001|Take 001_Object064
+  - first:
+      74: 4978898173988670701
+    second: Group008.001|Take 001_Object066
+  - first:
+      74: -2720206753948947885
+    second: Group008.001|Take 001_Object068
+  - first:
+      74: 7674406118533563798
+    second: Group008.001|Take 001_Plane002
+  - first:
+      74: -4892639663185313592
+    second: Group008.001|Take 001_Plane003
+  - first:
+      74: -3401346228264163666
+    second: Group008.001|Take 001_Plane004
+  - first:
+      74: -5955493071922550305
+    second: Group008.001|Take 001_VIFS030
+  - first:
+      74: 9029304072490631188
+    second: Group008.001|Take 001_VIFS035
+  - first:
+      74: -3210656172765055490
+    second: VIFS075|motion_Group001.001
+  - first:
+      74: -7939210770250449979
+    second: VIFS075|motion_Group002.001
+  - first:
+      74: 443090712745149333
+    second: VIFS075|motion_Group003.001
+  - first:
+      74: -2003437490079317814
+    second: VIFS075|motion_Group004.001
+  - first:
+      74: -2712152400863935865
+    second: VIFS075|motion_Group005.001
+  - first:
+      74: -8710699996875290467
+    second: VIFS075|motion_Group006.001
+  - first:
+      74: 4780693147653248769
+    second: VIFS075|motion_Group007.001
+  - first:
+      74: 6576059775655962080
+    second: VIFS075|motion_Group008.001
+  - first:
+      74: -4464451521964667259
+    second: VIFS075|motion_Group009.002
+  - first:
+      74: 7854885899531484362
+    second: VIFS075|motion_VIFS052
+  - first:
+      74: 771922326501957391
+    second: VIFS075|motion_VIFS060
+  - first:
+      74: 2211740990222809573
+    second: VIFS075|motion_VIFS075
+  - first:
+      74: 5882054181722503528
+    second: VIFS075|motion_VIFS076
+  - first:
+      74: 2054877829863025344
+    second: VIFS075|motion_VIFS077
+  - first:
+      74: 8845229268937216674
+    second: VIFS075|motion_VIFS078.001
+  - first:
+      74: -856000752546735201
+    second: VIFS075|motion_VIFS079
+  - first:
+      74: -8462460306286440146
+    second: VIFS075|Take 001_Group004
+  - first:
+      74: 4369743215785994973
+    second: VIFS075|Take 001_Group005
+  - first:
+      74: -5447184355036924753
+    second: VIFS075|Take 001_Group006
+  - first:
+      74: -5884976540209901380
+    second: VIFS075|Take 001_Group009.001
+  - first:
+      74: -2075447483305502301
+    second: VIFS075|Take 001_Group010
+  - first:
+      74: 4733394277834295784
+    second: VIFS075|Take 001_Group038
+  - first:
+      74: -5329021572344563005
+    second: VIFS075|Take 001_Group039
+  - first:
+      74: 7965393222089307274
+    second: VIFS075|Take 001_Group040
+  - first:
+      74: -7458287396104816648
+    second: VIFS075|Take 001_Group041
+  - first:
+      74: -4365660756969711153
+    second: VIFS075|Take 001_Object002
+  - first:
+      74: 7070134007955197732
+    second: VIFS075|Take 001_Object004
+  - first:
+      74: -3365353989331237808
+    second: VIFS075|Take 001_Object005
+  - first:
+      74: -8742485767555944661
+    second: VIFS075|Take 001_Object062
+  - first:
+      74: -4763655118442894697
+    second: VIFS075|Take 001_Object064
+  - first:
+      74: 5213695758508668654
+    second: VIFS075|Take 001_Object066
+  - first:
+      74: 3129227264197933925
+    second: VIFS075|Take 001_Object068
+  - first:
+      74: -85181960465998858
+    second: VIFS075|Take 001_Plane002
+  - first:
+      74: -899747588487938387
+    second: VIFS075|Take 001_Plane003
+  - first:
+      74: 4036106086210322924
+    second: VIFS075|Take 001_Plane004
+  - first:
+      74: -9171437089917811519
+    second: VIFS075|Take 001_VIFS030
+  - first:
+      74: -8902098801302673599
+    second: VIFS075|Take 001_VIFS035
+  - first:
+      74: -1806567991989052613
+    second: Group009.002|motion_Group001.001
+  - first:
+      74: -115541367662680312
+    second: Group009.002|motion_Group002.001
+  - first:
+      74: 588606165681168633
+    second: Group009.002|motion_Group003.001
+  - first:
+      74: 2032205063667470230
+    second: Group009.002|motion_Group004.001
+  - first:
+      74: 2499514760294929896
+    second: Group009.002|motion_Group005.001
+  - first:
+      74: 4703013047980858867
+    second: Group009.002|motion_Group006.001
+  - first:
+      74: 3511900626344144220
+    second: Group009.002|motion_Group007.001
+  - first:
+      74: 5456676035665914892
+    second: Group009.002|motion_Group008.001
+  - first:
+      74: 9209475514351107146
+    second: Group009.002|motion_Group009.002
+  - first:
+      74: 5812509053238309541
+    second: Group009.002|motion_VIFS052
+  - first:
+      74: -5712474704724790320
+    second: Group009.002|motion_VIFS060
+  - first:
+      74: -5872350072646936201
+    second: Group009.002|motion_VIFS075
+  - first:
+      74: 6661509287763015737
+    second: Group009.002|motion_VIFS076
+  - first:
+      74: 8319979167043671870
+    second: Group009.002|motion_VIFS077
+  - first:
+      74: 7202182441741908930
+    second: Group009.002|motion_VIFS078.001
+  - first:
+      74: 7822571324076966323
+    second: Group009.002|motion_VIFS079
+  - first:
+      74: 5688618506631667539
+    second: Group009.002|Take 001_Group004
+  - first:
+      74: -8275995293516999946
+    second: Group009.002|Take 001_Group005
+  - first:
+      74: 994991851203680563
+    second: Group009.002|Take 001_Group006
+  - first:
+      74: -4506699080179060194
+    second: Group009.002|Take 001_Group009.001
+  - first:
+      74: 2673729647132043876
+    second: Group009.002|Take 001_Group010
+  - first:
+      74: -683808263708867805
+    second: Group009.002|Take 001_Group038
+  - first:
+      74: -4719186046658068376
+    second: Group009.002|Take 001_Group039
+  - first:
+      74: -5686892294175698570
+    second: Group009.002|Take 001_Group040
+  - first:
+      74: 2794571047838235121
+    second: Group009.002|Take 001_Group041
+  - first:
+      74: -3441604554640818614
+    second: Group009.002|Take 001_Object002
+  - first:
+      74: -393836736708397799
+    second: Group009.002|Take 001_Object004
+  - first:
+      74: 713247902108223697
+    second: Group009.002|Take 001_Object005
+  - first:
+      74: 300652688169356445
+    second: Group009.002|Take 001_Object062
+  - first:
+      74: 633932670118102435
+    second: Group009.002|Take 001_Object064
+  - first:
+      74: 4522273843364173602
+    second: Group009.002|Take 001_Object066
+  - first:
+      74: -1159383448360716550
+    second: Group009.002|Take 001_Object068
+  - first:
+      74: 6755934136856099401
+    second: Group009.002|Take 001_Plane002
+  - first:
+      74: -2687893787922328335
+    second: Group009.002|Take 001_Plane003
+  - first:
+      74: 3777504453915118734
+    second: Group009.002|Take 001_Plane004
+  - first:
+      74: 8359879732014165377
+    second: Group009.002|Take 001_VIFS030
+  - first:
+      74: -1302518830136204981
+    second: Group009.002|Take 001_VIFS035
+  - first:
+      74: -4348431931176961418
+    second: VIFS076|motion_Group001.001
+  - first:
+      74: 5469584085410219123
+    second: VIFS076|motion_Group002.001
+  - first:
+      74: 6154040449011134154
+    second: VIFS076|motion_Group003.001
+  - first:
+      74: 8679921624442416019
+    second: VIFS076|motion_Group004.001
+  - first:
+      74: 8658546685369966476
+    second: VIFS076|motion_Group005.001
+  - first:
+      74: -1157615998461615152
+    second: VIFS076|motion_Group006.001
+  - first:
+      74: 4169879733032261640
+    second: VIFS076|motion_Group007.001
+  - first:
+      74: -3740467209780205587
+    second: VIFS076|motion_Group008.001
+  - first:
+      74: 3316025520212025304
+    second: VIFS076|motion_Group009.002
+  - first:
+      74: 2727236490415080928
+    second: VIFS076|motion_VIFS052
+  - first:
+      74: -8058503104925624504
+    second: VIFS076|motion_VIFS060
+  - first:
+      74: -516211918031399592
+    second: VIFS076|motion_VIFS075
+  - first:
+      74: 2240072957658064705
+    second: VIFS076|motion_VIFS076
+  - first:
+      74: -4953815354397957489
+    second: VIFS076|motion_VIFS077
+  - first:
+      74: -4786253853331286552
+    second: VIFS076|motion_VIFS078.001
+  - first:
+      74: -3810966782827154541
+    second: VIFS076|motion_VIFS079
+  - first:
+      74: 6262886676779450108
+    second: VIFS076|Take 001_Group004
+  - first:
+      74: 6986382410068340906
+    second: VIFS076|Take 001_Group005
+  - first:
+      74: 2143938928362515824
+    second: VIFS076|Take 001_Group006
+  - first:
+      74: -1433690113411249944
+    second: VIFS076|Take 001_Group009.001
+  - first:
+      74: -1793720353047070635
+    second: VIFS076|Take 001_Group010
+  - first:
+      74: -4002536828976702125
+    second: VIFS076|Take 001_Group038
+  - first:
+      74: -6471416135923979601
+    second: VIFS076|Take 001_Group039
+  - first:
+      74: 5490578100124818462
+    second: VIFS076|Take 001_Group040
+  - first:
+      74: -4597823554241840055
+    second: VIFS076|Take 001_Group041
+  - first:
+      74: -7538127277454765661
+    second: VIFS076|Take 001_Object002
+  - first:
+      74: -6684793987293226125
+    second: VIFS076|Take 001_Object004
+  - first:
+      74: -583160118346206749
+    second: VIFS076|Take 001_Object005
+  - first:
+      74: 244003802015494036
+    second: VIFS076|Take 001_Object062
+  - first:
+      74: 7055947426881615593
+    second: VIFS076|Take 001_Object064
+  - first:
+      74: -649963097743731640
+    second: VIFS076|Take 001_Object066
+  - first:
+      74: -8111163887290355144
+    second: VIFS076|Take 001_Object068
+  - first:
+      74: -2048707881376986821
+    second: VIFS076|Take 001_Plane002
+  - first:
+      74: 319752479522473339
+    second: VIFS076|Take 001_Plane003
+  - first:
+      74: 7249968691835061473
+    second: VIFS076|Take 001_Plane004
+  - first:
+      74: -9136485136897796247
+    second: VIFS076|Take 001_VIFS030
+  - first:
+      74: -5972290761814008846
+    second: VIFS076|Take 001_VIFS035
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
