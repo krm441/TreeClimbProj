@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0529d81de48172f4f832e84b65eac95e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - movement: {fileID: -6878091010720822276, guid: cb94b50ee48eee04086412eb898eae9d,
+      type: 3}
+  - jumping: {fileID: 3239170645257882750, guid: cb94b50ee48eee04086412eb898eae9d,
+      type: 3}
+  - climbing: {fileID: -6906346553723503455, guid: cb94b50ee48eee04086412eb898eae9d,
+      type: 3}
+  - throwing: {fileID: -6074620601723418469, guid: cb94b50ee48eee04086412eb898eae9d,
+      type: 3}
+  - snowball: {fileID: 7612955334796745310, guid: ce586872b315d30428f8912cf50f0142,
+      type: 3}
+  - rigidBody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
