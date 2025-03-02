@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8ca69ab9a74d5d4f9db5981b5ff133e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bossPrefab: {fileID: 4475661746496466653, guid: ba21e6e6f48f16747a41b257d7e230e8,
+      type: 3}
+  - snowPileSpawner: {fileID: 7251565149471990359, guid: 9ddb0673d2990c041b5d4767572c844c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

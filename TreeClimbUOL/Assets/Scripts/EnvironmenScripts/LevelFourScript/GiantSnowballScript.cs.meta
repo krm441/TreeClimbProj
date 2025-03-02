@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f48c10d944034c94db026d7a556cd528
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - evilSnowball: {fileID: 1756760476252835177, guid: ced8bdff91bf9674bb7a439ae0cef1fe,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
