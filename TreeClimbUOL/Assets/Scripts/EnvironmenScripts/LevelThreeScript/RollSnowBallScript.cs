@@ -4,30 +4,32 @@ using UnityEngine;
 
 public class RollSnowBallScript : MonoBehaviour
 {
-    float moveSpeed = 8;
-    // Start is called before the first frame update
-    void Start()
+    readonly float moveSpeed = 8;
+    Vector3 startingPosition;
+    private void Start()
     {
-
+        startingPosition = transform.position;
     }
 
     // Update is called once per frame
     void Update()
     {
+        //Remove the snowball after it travels a distance
+        if (Vector3.Distance(startingPosition, transform.position) > 10.2)
+        {
+            Destroy(gameObject);
+        }
         transform.position += moveSpeed * Time.deltaTime * transform.forward;
     }
     private void OnTriggerEnter(Collider other)
     {
-        //If the touching the player hit them and destory itself
+        //If the touching the player hit them
         if (other.gameObject.name == "Player" && other.TryGetComponent<PlayerStateModel>(out PlayerStateModel stateModel))
         {
             stateModel.HitPlayer();
-            Destroy(gameObject);
         }
-        //Otherwise if it has hit a wall destroy it
-        else if (other.gameObject.name == "Wall")
-        {
-            Destroy(gameObject);
-        }
+        //Destory it after the collision
+        Destroy(gameObject);
+
     }
 }

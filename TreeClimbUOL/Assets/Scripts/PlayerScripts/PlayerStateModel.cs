@@ -5,12 +5,6 @@ using UnityEngine;
 //For controlling the state of player
 public class PlayerStateModel : MonoBehaviour
 {
-    /*The things that can hurt the player */
-    private readonly IDictionary<string, bool> hurtingItems = new Dictionary<string, bool>()
-    {
-        { "SpikeBall",true },
-    };
-
     /*For the key movement*/
     public InputActionReference movement;
     /*For jumping*/
@@ -134,7 +128,7 @@ public class PlayerStateModel : MonoBehaviour
             ResetPlayer();
 
         }
-        //
+        //Otherwise use the node for the current level
         else
         {
             GetLevelNodes(currentLevel);
@@ -146,14 +140,8 @@ public class PlayerStateModel : MonoBehaviour
     {
         snowballs += 4;
     }
-    /**/
+    //The player rigid body
     public Rigidbody rigidBody;
-
-    /*Whether the player is touching*/
-    private bool TouchingDangerousObject(GameObject obj)
-    {
-        return hurtingItems.ContainsKey(obj.name);
-    }
     //Resets the player status
     void ResetPlayer()
     {
