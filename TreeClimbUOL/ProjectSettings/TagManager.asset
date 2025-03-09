@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Camera2
+  - Collectable
+  - NPC
+  - Scene2Canvas
+  - Scene2Light
   layers:
   - Default
   - TransparentFX
@@ -15,7 +20,7 @@ TagManager:
   - 
   - SnowmanLayer
   - BossLayer
-  - 
+  - Scene2UI
   - 
   - 
   - 
